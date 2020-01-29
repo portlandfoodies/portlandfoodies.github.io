@@ -9,10 +9,11 @@ Project Design:
 
 https://docs.google.com/document/d/1zquOXvyhvYoJCObhOqtlejyR_juul_OIJH4U3FdJw9o/edit?usp=sharing
 
+Webpage:
 
-Team Portland Foodies
+https://portlandfoodies.github.io
 
-### Project Design
+## Team Portland Foodies
 
 Github Repo: [https://github.com/portlandfoodies/portlandfoodies.github.io](https://github.com/portlandfoodies/portlandfoodies.github.io)
 
