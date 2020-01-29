@@ -1,6 +1,7 @@
 # CS 410/510 Data Science & Analytics
 
 Team Members: Qiacheng Li, Yiming Zhang
+CS 410/510
 
 ## Project Part One
 
@@ -9,19 +10,17 @@ Project Design:
 https://docs.google.com/document/d/1zquOXvyhvYoJCObhOqtlejyR_juul_OIJH4U3FdJw9o/edit?usp=sharing
 
 
-CS 410/510
-
 Team Portland Foodies
 
-**Project Design**
+### Project Design
 
 Github Repo: [https://github.com/portlandfoodies/portlandfoodies.github.io](https://github.com/portlandfoodies/portlandfoodies.github.io)
 
-**Project Goal:**
+### Project Goal:
 
 The goal of this project is to explore and communicate insights from Yelp's businesses, users, reviews and check-ins dataset of Portland restaurants. Through the project, We will learn how to properly develop and structure a complex visualization project.
 
-**Project Summary:**
+### Project Summary:
 
 **What will you accomplish?**
 
@@ -51,11 +50,11 @@ In this project we will develop visualizations to help us understand Portland’
 6. Use word cloud to show the most frequently used words in user reviews
 7. Create github page using React.js and embed tableau data charts into website for interactive data analysis. 
 
-**Tasks:**
+### Tasks:
 
 [https://docs.google.com/spreadsheets/d/1NtdWYfp35w061lS4-VeAYm-GhCNSoPPfYRFNImSrpVM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1NtdWYfp35w061lS4-VeAYm-GhCNSoPPfYRFNImSrpVM/edit?usp=sharing)
 
-**Team Roles:**
+### Team Roles:
 
 Yiming Zhang
 
@@ -65,7 +64,7 @@ Qiacheng Li
 
 Data fetching. Implement visualizations. Website creation.
 
-**References:**
+### References:
 
 [https://www.yelp.com/dataset/challenge](https://www.yelp.com/dataset/challenge)
 
