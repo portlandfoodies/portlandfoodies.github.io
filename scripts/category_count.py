@@ -13,7 +13,7 @@ def main():
           categories[categ] += 1
         else:
           categories[categ] = 1
-  with open('category_count.csv', 'w+') as ofile:
+  with open('../data/category_count.csv', 'w+') as ofile:
     for key in categories.keys():
       ofile.write("%s,%s\n"% (key, categories[key]))
   

@@ -12,7 +12,7 @@ def main():
     #with open('wordcount.json', 'w+', encoding='utf-8') as ofile:
       #json.dump(odata, ofile, ensure_ascii=False, indent=4)
     
-    with open('word_count.csv', 'w') as ofile:
+    with open('../data/word_count.csv', 'w+') as ofile:
       for key in odata.keys():
         ofile.write("%s,%s\n"% (key, odata[key]))
     
