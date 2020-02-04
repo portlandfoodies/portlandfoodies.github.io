@@ -3,7 +3,7 @@ import csv
 import operator
 
 def main():
-    with open('reviews.json') as reviews_json:
+    with open('../data/reviews.json') as reviews_json:
       data = json.load(reviews_json)
       total_str = ""
       for bs in data['business_reviews']:
