@@ -1,0 +1,550 @@
+{
+    "business_reviews": [
+        {
+            "id": "riiCzvqSOTVM8Fyhtn5bJg",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=riiCzvqSOTVM8Fyhtn5bJg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "You can't find anywhere better than McDonald's. You know what you're getting every time. I trust this place so much that onetime, I went to Italy and all I...",
+            "rating": 5,
+            "time_created": "2020-02-27 22:00:09",
+            "user": {
+                "id": "LHDzmRLE9JzfUxSx6aQXig",
+                "profile_url": "https://www.yelp.com/user_details?userid=LHDzmRLE9JzfUxSx6aQXig",
+                "image_url": null,
+                "name": "Wiley B."
+            }
+        },
+        {
+            "id": "4HndkPhPeL2wavZav0P-iQ",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=4HndkPhPeL2wavZav0P-iQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "cash only!!!!\n\ni would give this location zero stars it let me.\n\nwasted my time in drive through\nno signs it cash only",
+            "rating": 1,
+            "time_created": "2019-11-22 00:30:51",
+            "user": {
+                "id": "YwHWrt0wAIutR3jArjoaCA",
+                "profile_url": "https://www.yelp.com/user_details?userid=YwHWrt0wAIutR3jArjoaCA",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/R2ydJeaiWXg5HPf4T7GSJA/o.jpg",
+                "name": "Jason F."
+            }
+        },
+        {
+            "id": "MDfdCKH1LuonPXlYFMGQgA",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=MDfdCKH1LuonPXlYFMGQgA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Stop at McDonald's for a quick bite. Wish they would add an additional menu board prior to ordering.  Still amazed at how long it takes people to order once...",
+            "rating": 2,
+            "time_created": "2020-02-29 08:27:43",
+            "user": {
+                "id": "u_2-EgcLAo9Q14eOpP0fsg",
+                "profile_url": "https://www.yelp.com/user_details?userid=u_2-EgcLAo9Q14eOpP0fsg",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/vszLcxEKevcYbc5cKMTQ0Q/o.jpg",
+                "name": "Shawn P."
+            }
+        },
+        {
+            "id": "3H41YmEcUmi7QhzgI6WJtw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-4?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=3H41YmEcUmi7QhzgI6WJtw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "My favorite thing about this place is that sense you can't go pee without a purchase I just on their back door. Sometimes I just drive out of my way to do this.",
+            "rating": 3,
+            "time_created": "2020-02-14 19:00:30",
+            "user": {
+                "id": "p4uUMFaTg7_iJRFWqIT9hw",
+                "profile_url": "https://www.yelp.com/user_details?userid=p4uUMFaTg7_iJRFWqIT9hw",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/05OPltewhtVCutRDfuJPsA/o.jpg",
+                "name": "Smit J."
+            }
+        },
+        {
+            "id": "XSKIuKH2Oo0T-T3gJmmlwQ",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-4?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=XSKIuKH2Oo0T-T3gJmmlwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "What the hell. \nWhat type of operation runs like this? It's 3am, I havE been in line for over 15 mins and have watched three cars be helped. It literally...",
+            "rating": 1,
+            "time_created": "2020-02-01 03:15:43",
+            "user": {
+                "id": "wel2lM2_6uF6wN0daUEnkw",
+                "profile_url": "https://www.yelp.com/user_details?userid=wel2lM2_6uF6wN0daUEnkw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/FZKDXNhPaSy6ibgYog8XyQ/o.jpg",
+                "name": "Nicole S."
+            }
+        },
+        {
+            "id": "7PPPHNH3K5yfiBLwJ3tz_w",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-4?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=7PPPHNH3K5yfiBLwJ3tz_w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "HOLY CRAP... came in for a bite this morning, ended up being a bit scared for my well-being. I'd ordered my usual -  a Sausage McMuffin w/egg, a couple of...",
+            "rating": 1,
+            "time_created": "2018-12-15 19:58:44",
+            "user": {
+                "id": "PGrMxh4ANie8DGVxUh3DxA",
+                "profile_url": "https://www.yelp.com/user_details?userid=PGrMxh4ANie8DGVxUh3DxA",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/__KMsaAGCHnhrc7ElxQqFA/o.jpg",
+                "name": "Bubba Y."
+            }
+        },
+        {
+            "id": "o9VYbUno8mLWAvViut1WMA",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=o9VYbUno8mLWAvViut1WMA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "In the 45 seconds it took for me to walk the food from the counter to my table, the fries were ice cold and soggy.\n\nAnd you McEmployees wonder why people...",
+            "rating": 2,
+            "time_created": "2020-03-05 01:54:25",
+            "user": {
+                "id": "AHgIA5ebqKmAGALvVG8nOQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=AHgIA5ebqKmAGALvVG8nOQ",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/dC2PPOWzhQKsfm3J9cv5zQ/o.jpg",
+                "name": "Jacob K."
+            }
+        },
+        {
+            "id": "6EZWHX799BtmOwBW_-vZJQ",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=6EZWHX799BtmOwBW_-vZJQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I would give them ZERO stars if I could. This McDonald's is horrible. Asked for a burger no ketchup and mustard, add mac and lettuce. Had to get it made 3...",
+            "rating": 1,
+            "time_created": "2020-02-19 13:18:41",
+            "user": {
+                "id": "mfX0pS5Wt8g5ZUub6fbLYg",
+                "profile_url": "https://www.yelp.com/user_details?userid=mfX0pS5Wt8g5ZUub6fbLYg",
+                "image_url": null,
+                "name": "Blah B."
+            }
+        },
+        {
+            "id": "8Nmldohr22-FsEVGris-Sw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=8Nmldohr22-FsEVGris-Sw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This location is in my neighborhood where I've lived many years over my time in Portland.  I'm aware of the demographics associated with the area therefore...",
+            "rating": 1,
+            "time_created": "2019-07-08 10:14:19",
+            "user": {
+                "id": "qIBr_p3Ru1-RSa0RPXMPVw",
+                "profile_url": "https://www.yelp.com/user_details?userid=qIBr_p3Ru1-RSa0RPXMPVw",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/0m5ReGNSqMasss-1r0Cj-w/o.jpg",
+                "name": "Drake P."
+            }
+        },
+        {
+            "id": "VRynBztYQeqEIHNQBr_G1A",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=VRynBztYQeqEIHNQBr_G1A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This was an okay McDonald's. The food was tried and true. The employees that I interacted with were all nice and friendly. However it's located in Downtown...",
+            "rating": 3,
+            "time_created": "2019-11-12 13:45:53",
+            "user": {
+                "id": "zFo--zdHXg6KJ1RYd8r1BA",
+                "profile_url": "https://www.yelp.com/user_details?userid=zFo--zdHXg6KJ1RYd8r1BA",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/LQxkooJ_9yOeMxdbEYMu8Q/o.jpg",
+                "name": "Emil C."
+            }
+        },
+        {
+            "id": "qHm89dCANe7sJEvxTo0KKw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=qHm89dCANe7sJEvxTo0KKw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "If you absolutely have to go here, then I suggest taking your order to go. But this McDonald's isn't the best location or have good customer service. \n\nI'm...",
+            "rating": 2,
+            "time_created": "2019-09-11 21:16:33",
+            "user": {
+                "id": "jKukw1_ccUkGNTS2EUNH1A",
+                "profile_url": "https://www.yelp.com/user_details?userid=jKukw1_ccUkGNTS2EUNH1A",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/W-kghkRYncBBCBF-6RksAA/o.jpg",
+                "name": "David P."
+            }
+        },
+        {
+            "id": "DtwAwuo2QxboPWxl5vA_JQ",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=DtwAwuo2QxboPWxl5vA_JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Was just waiting online at the restaurant to order and the hound guy with the ponytail told me to leave and I asked why and he told me that he has no...",
+            "rating": 1,
+            "time_created": "2020-02-23 18:29:42",
+            "user": {
+                "id": "a018Tvn2zKlePbBMxxR9-g",
+                "profile_url": "https://www.yelp.com/user_details?userid=a018Tvn2zKlePbBMxxR9-g",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/4NfmjGC0apJjWd-dz1wYrA/o.jpg",
+                "name": "Gregory R."
+            }
+        },
+        {
+            "id": "727Pa9eaNNRXyEDFL1DM8w",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-25?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=727Pa9eaNNRXyEDFL1DM8w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Best Drive Thru experience I have ever had.\n\n2 Suasage Mcmuffin's with egg and a medium iced coffee with lots of cream and sugar!\n9/16/19 around 10:15am\nEgg...",
+            "rating": 5,
+            "time_created": "2019-09-16 10:35:02",
+            "user": {
+                "id": "zeaE3CSO4U9sFtNhQGRYsA",
+                "profile_url": "https://www.yelp.com/user_details?userid=zeaE3CSO4U9sFtNhQGRYsA",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/NB03pbcYy7N0llpJpJVRSg/o.jpg",
+                "name": "Vivianne K."
+            }
+        },
+        {
+            "id": "CXnwTWyWlBHy-Qr7Ox6VXw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-25?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=CXnwTWyWlBHy-Qr7Ox6VXw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This is the worst fast food service I've ever seen. I sat in line for 50 minutes. No way to get out of line. I would certainly rather eat better food than...",
+            "rating": 1,
+            "time_created": "2020-02-01 20:26:43",
+            "user": {
+                "id": "-HUHH0o_MpS0k_COdQqvcQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=-HUHH0o_MpS0k_COdQqvcQ",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/0RbuKJ664O4YDkMiSbuEnw/o.jpg",
+                "name": "Wendy R."
+            }
+        },
+        {
+            "id": "4UrOAXQ70XGawkcvev6NVg",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-25?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=4UrOAXQ70XGawkcvev6NVg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "You know when you get those starburst fun size packs, and you open it up and you get 2 crappy yellow flavors? That's what it was like here. I ordered only a...",
+            "rating": 1,
+            "time_created": "2020-01-11 23:07:54",
+            "user": {
+                "id": "rJ-mxpMY0Fwa0fLpx8PtnA",
+                "profile_url": "https://www.yelp.com/user_details?userid=rJ-mxpMY0Fwa0fLpx8PtnA",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/lI1A5VmgiIdOhCLt3_Gdvg/o.jpg",
+                "name": "Linus S."
+            }
+        },
+        {
+            "id": "yFLwAz8Ac41snTSmrWAApA",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-47?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=yFLwAz8Ac41snTSmrWAApA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Had a surprisingly good experience at a McDonald's by gate C-17 at the Portland airport. Normally I don't give more than a 3 to fast food based on food...",
+            "rating": 4,
+            "time_created": "2019-11-26 05:37:25",
+            "user": {
+                "id": "1Yq3MZVfooD_sCyofdiwsg",
+                "profile_url": "https://www.yelp.com/user_details?userid=1Yq3MZVfooD_sCyofdiwsg",
+                "image_url": null,
+                "name": "Quinton S."
+            }
+        },
+        {
+            "id": "QR6MNLomJlSBPWHKRp9SuQ",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-47?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=QR6MNLomJlSBPWHKRp9SuQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Trash bins overflowing, employees are completely disengaged and catatonic with much shouting in back of house. Just wanted a Diet Coke and waited quite a...",
+            "rating": 1,
+            "time_created": "2020-03-01 11:52:56",
+            "user": {
+                "id": "SHo72jUdeq_UrLjLpAqq-g",
+                "profile_url": "https://www.yelp.com/user_details?userid=SHo72jUdeq_UrLjLpAqq-g",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/J8LvsvGwPUFg8T-_th5R9Q/o.jpg",
+                "name": "Estee L."
+            }
+        },
+        {
+            "id": "ewo-IH8-IKhX6y0Ka89hcw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-47?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=ewo-IH8-IKhX6y0Ka89hcw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "The gate for my flight home was just across the way, so I stopped here to pick up a quick lunch before catching my flight. It would appear that they had...",
+            "rating": 3,
+            "time_created": "2019-11-14 14:04:45",
+            "user": {
+                "id": "zFo--zdHXg6KJ1RYd8r1BA",
+                "profile_url": "https://www.yelp.com/user_details?userid=zFo--zdHXg6KJ1RYd8r1BA",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/LQxkooJ_9yOeMxdbEYMu8Q/o.jpg",
+                "name": "Emil C."
+            }
+        },
+        {
+            "id": "tcAaVrkwgOuyBA_vYjvtKg",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-46?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=tcAaVrkwgOuyBA_vYjvtKg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Every few months, I get this sudden urge to make terrible life decisions... like eating at McDonald's or developing a debilitating drug addiction.  This...",
+            "rating": 2,
+            "time_created": "2013-11-06 12:27:59",
+            "user": {
+                "id": "W4C7rQ9YKJnqwtZ-iL3e0g",
+                "profile_url": "https://www.yelp.com/user_details?userid=W4C7rQ9YKJnqwtZ-iL3e0g",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/cebFtk6Wy3Fadpqjk1wX2g/o.jpg",
+                "name": "Colleen C."
+            }
+        },
+        {
+            "id": "n9bVP4K0na7O0N2NeZNYzQ",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-46?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=n9bVP4K0na7O0N2NeZNYzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Rude staff. Service is suck. Maybe cuz they can't get tips from customer. So they just working like a robot. I promise I won't back again. I would like to...",
+            "rating": 1,
+            "time_created": "2020-02-26 10:46:06",
+            "user": {
+                "id": "mCkWlqFnO0U6Y3j6VuDsAQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=mCkWlqFnO0U6Y3j6VuDsAQ",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/gI8LAhNSyoOwVwxTOZE9ew/o.jpg",
+                "name": "Juliie W."
+            }
+        },
+        {
+            "id": "pVKy-_3aoJpjVxQprP0AhA",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-46?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=pVKy-_3aoJpjVxQprP0AhA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Full of homeless, service is what you would expect from a McDonald's, seats were a mess ( probably due to the several homeless people sitting there...",
+            "rating": 1,
+            "time_created": "2020-02-15 20:48:37",
+            "user": {
+                "id": "t0fqvydEm362qXBsneNoIg",
+                "profile_url": "https://www.yelp.com/user_details?userid=t0fqvydEm362qXBsneNoIg",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/WSdXiIyKdtk7eaYVEjl4Ew/o.jpg",
+                "name": "Pretty P."
+            }
+        },
+        {
+            "id": "Gy3jworwphazwbLA0T0F4g",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-34?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=Gy3jworwphazwbLA0T0F4g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This was on a Wednesday evening. I paid for a friend of mine but he forgot to pick up his order. We came back 5 minutes later and the guy who took our...",
+            "rating": 5,
+            "time_created": "2020-02-19 22:17:25",
+            "user": {
+                "id": "mY-ungxdvx6Aoyjgeu5eug",
+                "profile_url": "https://www.yelp.com/user_details?userid=mY-ungxdvx6Aoyjgeu5eug",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/mciG3uiriky4daz3z0Zkew/o.jpg",
+                "name": "Sophie N."
+            }
+        },
+        {
+            "id": "sMHgTRwuZX8M94uzgNWxgA",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-34?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=sMHgTRwuZX8M94uzgNWxgA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This location is awesome if you have kids and on a financial budget.  You can get Happy Meals for the kids and have them play inside the Playhouse (this...",
+            "rating": 5,
+            "time_created": "2019-04-20 20:40:25",
+            "user": {
+                "id": "GPkFBCgT7CU8t4EqPkOh7Q",
+                "profile_url": "https://www.yelp.com/user_details?userid=GPkFBCgT7CU8t4EqPkOh7Q",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/fx5IImbbIfOJL6NQVQvjgg/o.jpg",
+                "name": "Andrew P."
+            }
+        },
+        {
+            "id": "KVcavfZzIbz_ajBM_CRe2w",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-34?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=KVcavfZzIbz_ajBM_CRe2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "If I could give this place a negative star, I would. I waited 30min just for them to tell me they did not have my order after ordering, confirmations and...",
+            "rating": 1,
+            "time_created": "2019-11-23 15:10:55",
+            "user": {
+                "id": "0lpFvX0uSoRd4UwMfB1cpQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=0lpFvX0uSoRd4UwMfB1cpQ",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/iAHbN5mWa0tA-fHb1BtIRg/o.jpg",
+                "name": "Laura A."
+            }
+        },
+        {
+            "id": "0Pxkz5ya_zy662qdd3LgjA",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-31?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=0Pxkz5ya_zy662qdd3LgjA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "(‸‶)   ()   (°  °)\nIt literally really depends on who's running the place it makes the biggest difference wow they really cut down the amount you're allowed...",
+            "rating": 2,
+            "time_created": "2019-10-18 04:51:52",
+            "user": {
+                "id": "qi9gOPPa52p3oHlU0FhrIg",
+                "profile_url": "https://www.yelp.com/user_details?userid=qi9gOPPa52p3oHlU0FhrIg",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/uKIFkf3ojy6hecmXgHJuMg/o.jpg",
+                "name": "Charlie C."
+            }
+        },
+        {
+            "id": "mZQLv7VghB33GZ-NOdTzmw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-31?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=mZQLv7VghB33GZ-NOdTzmw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I don't know  why I keep coming back  to this location to be honest. How damm hard is it to get the order right, if it's not a damm employee being rude it's...",
+            "rating": 1,
+            "time_created": "2020-02-02 00:36:27",
+            "user": {
+                "id": "lw-NwplQrwO7ypHDj6kdIQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=lw-NwplQrwO7ypHDj6kdIQ",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/L689AS6e3CtZPkV_UedJxQ/o.jpg",
+                "name": "Griselda H."
+            }
+        },
+        {
+            "id": "LiYPHL-zvMShmrYewLxZ_w",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-31?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=LiYPHL-zvMShmrYewLxZ_w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I just walked out of this place. Tried to order the special of 2 fish sandwiches. My experience is that I rarely get much tartar sauce on my sandwich. So I...",
+            "rating": 1,
+            "time_created": "2019-08-07 13:02:02",
+            "user": {
+                "id": "JnmT6OYKLNPuadbPurSnnQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=JnmT6OYKLNPuadbPurSnnQ",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/EnykCtI50ABSxX9TZq5QDQ/o.jpg",
+                "name": "Daniel C M."
+            }
+        },
+        {
+            "id": "Q8iDuIlAoMUS68yUPmOBhg",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-13?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=Q8iDuIlAoMUS68yUPmOBhg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "very unorganized and long wait time on filet o fish meal. not the kids fault that took my order but they definitely did not seem customer service oriented....",
+            "rating": 2,
+            "time_created": "2019-09-10 13:56:17",
+            "user": {
+                "id": "09_ezQ4rPZrUy4sYS3LPxg",
+                "profile_url": "https://www.yelp.com/user_details?userid=09_ezQ4rPZrUy4sYS3LPxg",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/lfmuaLgJ0h8DznW8YnWQ4w/o.jpg",
+                "name": "Ray E."
+            }
+        },
+        {
+            "id": "znaQdx3HWxxBywXkGiPtTA",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-13?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=znaQdx3HWxxBywXkGiPtTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I go here on my lunch break sometimes and my coworkers joke around that McDonald's hates me because everytime I come back to work with my food, it's the...",
+            "rating": 1,
+            "time_created": "2020-01-30 16:35:04",
+            "user": {
+                "id": "m1lSsnIel-lY5g0kyKKNRA",
+                "profile_url": "https://www.yelp.com/user_details?userid=m1lSsnIel-lY5g0kyKKNRA",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/OXYLuxx7ZCtXDT7dRgo70g/o.jpg",
+                "name": "Austin S."
+            }
+        },
+        {
+            "id": "dN2F1qTx9TCgV6L69fj68A",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-13?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=dN2F1qTx9TCgV6L69fj68A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I don't go to this mc Donald's very often, I was very upset with my food. I ordered a quarter pounder meal, and while I was eating my burger I noticed ITS...",
+            "rating": 1,
+            "time_created": "2019-03-04 23:22:49",
+            "user": {
+                "id": "XZLLVSJAyO1HV7RPMFVYYw",
+                "profile_url": "https://www.yelp.com/user_details?userid=XZLLVSJAyO1HV7RPMFVYYw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/mMMcF4hveml5o3Bg6A4W6Q/o.jpg",
+                "name": "Leslie S."
+            }
+        },
+        {
+            "id": "75h6h0jAwnvhofLyKxXzGQ",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-14?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=75h6h0jAwnvhofLyKxXzGQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "It's 3:25am and they are not closed- 24hr drive thru. \n\nVery slow service... The person working I assume is doing the best he can since he appears to be a...",
+            "rating": 3,
+            "time_created": "2018-09-11 03:29:56",
+            "user": {
+                "id": "mKW0Agn2D3qmLeGkIQ-gNA",
+                "profile_url": "https://www.yelp.com/user_details?userid=mKW0Agn2D3qmLeGkIQ-gNA",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/YwlUMM5BO95VQ6ZPbqPHZA/o.jpg",
+                "name": "Stormy B."
+            }
+        },
+        {
+            "id": "lUrErsYs39POS8E_YPFeFw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-14?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=lUrErsYs39POS8E_YPFeFw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "THERE IS MOLD IN THE SODA MACHINE!!!!\nI GET SODA HERE EVERY DAY AND I FOUND MOLD!!!\nI REMOVED THE SPOUTS ON THE MACHINE IN LOBBY AND IT WAS FULL OF MOLD!!!...",
+            "rating": 1,
+            "time_created": "2019-03-05 11:00:08",
+            "user": {
+                "id": "cfFpN_zmVSrveOokjr-rGg",
+                "profile_url": "https://www.yelp.com/user_details?userid=cfFpN_zmVSrveOokjr-rGg",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/TFnn5KSsJg-CsdOysHd0NA/o.jpg",
+                "name": "Collin R."
+            }
+        },
+        {
+            "id": "nANeefKCbubROJ2S62_2mQ",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-14?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=nANeefKCbubROJ2S62_2mQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I don't expect much from McDonalds, but our burgers weren't even cooked all the way. NASTY!",
+            "rating": 1,
+            "time_created": "2018-11-07 13:04:18",
+            "user": {
+                "id": "xKtauW_XxIDByQdrIDkPdg",
+                "profile_url": "https://www.yelp.com/user_details?userid=xKtauW_XxIDByQdrIDkPdg",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/K90zYgobKkTojOdztmYhzQ/o.jpg",
+                "name": "Kimberly D."
+            }
+        },
+        {
+            "id": "WAMZ1VWI0wgxxIu3abuGlw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-28?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=WAMZ1VWI0wgxxIu3abuGlw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "There's a Redbox at this location in case you want a movie to go with your junk food.\n\nAs far as a McDonald's goes, this one is pretty good. Clean inside....",
+            "rating": 2,
+            "time_created": "2012-12-11 12:30:47",
+            "user": {
+                "id": "iWpQOw985MfgiREacq3ItA",
+                "profile_url": "https://www.yelp.com/user_details?userid=iWpQOw985MfgiREacq3ItA",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/Yc0p-J6WaANUsthUUEJpVw/o.jpg",
+                "name": "Katherine V."
+            }
+        },
+        {
+            "id": "UNbHnpW0nbmanfXtHygoFg",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-28?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=UNbHnpW0nbmanfXtHygoFg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This place is trash. I wanted a coke so I go through the drive-thru. I sit for a minute. Nothing. I ask if anyone is there and this lazy sounding girl says...",
+            "rating": 1,
+            "time_created": "2020-02-17 10:10:56",
+            "user": {
+                "id": "gTz--Ox3V2MIvcvlUGFLtA",
+                "profile_url": "https://www.yelp.com/user_details?userid=gTz--Ox3V2MIvcvlUGFLtA",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/P0q7FruCwR_ES5A8J1FAYQ/o.jpg",
+                "name": "Michael W."
+            }
+        },
+        {
+            "id": "qIAuCZ9HwD0-UHoWNiqlgw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-28?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=qIAuCZ9HwD0-UHoWNiqlgw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Fast food nope this is park in the drive through for an hour food. Unreal how terrible the service is here. The ppl should be ashamed to be there. Zero...",
+            "rating": 1,
+            "time_created": "2019-11-08 08:55:06",
+            "user": {
+                "id": "sKW1nSWIXaJnQkYFF9ODuw",
+                "profile_url": "https://www.yelp.com/user_details?userid=sKW1nSWIXaJnQkYFF9ODuw",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/2QEself2qbcEK21xam3oQg/o.jpg",
+                "name": "Rob M."
+            }
+        },
+        {
+            "id": "LmmcpGV9xV3-sL52uB-Pkw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-17?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=LmmcpGV9xV3-sL52uB-Pkw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Every so often, I get a hankering for their McDouble.  Being in my 60's \nI don't make a steady diet of eating there, but, when I do, I sometimes like to...",
+            "rating": 3,
+            "time_created": "2020-01-15 21:23:04",
+            "user": {
+                "id": "jF2SszAn_-peIiFJH3bHsQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=jF2SszAn_-peIiFJH3bHsQ",
+                "image_url": null,
+                "name": "Buddy Bee A."
+            }
+        },
+        {
+            "id": "DTEVwUODqPZnCVM5VWUpfA",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-17?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=DTEVwUODqPZnCVM5VWUpfA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "The manager( white shirt with necktie) is so rude, I asked for ketchup and he asked me how many I need and I did not hear  what he said. I asked him for...",
+            "rating": 1,
+            "time_created": "2020-01-27 16:14:55",
+            "user": {
+                "id": "s01W26r_LwRZ8Vs69J9egg",
+                "profile_url": "https://www.yelp.com/user_details?userid=s01W26r_LwRZ8Vs69J9egg",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/bhOzVFB0K1AEmh5BtqN4fw/o.jpg",
+                "name": "Theerat P."
+            }
+        },
+        {
+            "id": "iMqoauue9Hah804e3rMMhw",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-17?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=iMqoauue9Hah804e3rMMhw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Blahhhh Stopped here on my lunch break to get my daughter a happy meal I didn't check until I got home and realized they didn't even pack the cheeseburger...",
+            "rating": 1,
+            "time_created": "2019-12-27 16:10:11",
+            "user": {
+                "id": "pNUvwlxoJZMZKCyTmgGZ8g",
+                "profile_url": "https://www.yelp.com/user_details?userid=pNUvwlxoJZMZKCyTmgGZ8g",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/OtVYFS14aIl4rywmqgMiYQ/o.jpg",
+                "name": "Ippiefauna G."
+            }
+        },
+        {
+            "id": "r4L7Wqm84V7gYFUFJRPM0A",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-30?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=r4L7Wqm84V7gYFUFJRPM0A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Customer service here is amazing. I embarrassedly spilled my drink. They were quick to clean it up and not make me feel as stupid as I was. Good people.",
+            "rating": 5,
+            "time_created": "2019-12-14 12:07:57",
+            "user": {
+                "id": "s-hn7sBdmDJ1hMVau5iFUw",
+                "profile_url": "https://www.yelp.com/user_details?userid=s-hn7sBdmDJ1hMVau5iFUw",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/OsXE2j-JexJOpVikXdtNUQ/o.jpg",
+                "name": "Rick G."
+            }
+        },
+        {
+            "id": "fcN4H3btDtIlL2n1MK9fJg",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-30?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=fcN4H3btDtIlL2n1MK9fJg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I guess not all McDonald locations have the same rules. My husband found out that seniors don't get free drink at this location. It costs 75 cents. \n\nAlso...",
+            "rating": 1,
+            "time_created": "2019-12-22 13:40:05",
+            "user": {
+                "id": "ABhvFtEei3w7_FSlQDIn9Q",
+                "profile_url": "https://www.yelp.com/user_details?userid=ABhvFtEei3w7_FSlQDIn9Q",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/-y12DLoRZqgqQQV-lLrVOg/o.jpg",
+                "name": "Karen W."
+            }
+        },
+        {
+            "id": "8gIYPOf0I3kYLyX4qNU_Jg",
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-30?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=8gIYPOf0I3kYLyX4qNU_Jg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Good for coffee and the food is too greasy and it's run by Mexican nothing wrong with that but seriously learn English people come on",
+            "rating": 2,
+            "time_created": "2019-11-19 22:54:50",
+            "user": {
+                "id": "erbbQ0fMYfJ64UJKXff1gw",
+                "profile_url": "https://www.yelp.com/user_details?userid=erbbQ0fMYfJ64UJKXff1gw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/-gwFynVov9UgiB_MiNsIfA/o.jpg",
+                "name": "Mike D."
+            }
+        }
+    ]
+}

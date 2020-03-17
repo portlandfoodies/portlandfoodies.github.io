@@ -1,0 +1,570 @@
+{
+    "businesses": [
+        {
+            "id": "GzuWpn697Cz-VBPCUeecVg",
+            "alias": "burger-king-portland-11",
+            "name": "Burger King",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d23CeipIr6mAdBazwaeAVg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-11?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 49,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.5117318,
+                "longitude": -122.661309678
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1525 Se Grand Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97214",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "1525 Se Grand Ave",
+                    "Portland, OR 97214"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 719.4047127087267
+        },
+        {
+            "id": "q5I89Y1ptv_nF30gHmv8IQ",
+            "alias": "burger-king-portland-21",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q35cjnFQ5mCw6XvvmbZLUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-21?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 45.53409,
+                "longitude": -122.65908
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "632 N E Weidler Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97232",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "632 N E Weidler Ave",
+                    "Portland, OR 97232"
+                ]
+            },
+            "phone": "+15032873083",
+            "display_phone": "(503) 287-3083",
+            "distance": 2068.3551310073394
+        },
+        {
+            "id": "Qpak-_gsMFSKWpUPSQYthw",
+            "alias": "burger-king-portland-10",
+            "name": "Burger King",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KaKulf7UXApT4uwNNmtj3Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-10?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.49717,
+                "longitude": -122.61063
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "5038 S E Powell Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97206",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "5038 S E Powell Blvd",
+                    "Portland, OR 97206"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3979.5680211867275
+        },
+        {
+            "id": "JYEV5I3e49PwHmVxOhnrLg",
+            "alias": "burger-king-portland-20",
+            "name": "Burger King",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LkKQXQmdBPR-CuwbkqPGBA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-20?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 36,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.49446,
+                "longitude": -122.57828
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3830 S E 82nd Street",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97266",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "3830 S E 82nd Street",
+                    "Portland, OR 97266"
+                ]
+            },
+            "phone": "+15037748766",
+            "display_phone": "(503) 774-8766",
+            "distance": 6362.45691294874
+        },
+        {
+            "id": "5Wg2MoDPo7cZNa7suuYA6g",
+            "alias": "burger-king-portland-2",
+            "name": "Burger King",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HzmkmKYiXJ_NmHg9vq8gEQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 45.518838153941,
+                "longitude": -122.55989465574
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "10010 S E Stark Street",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97216",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "10010 S E Stark Street",
+                    "Portland, OR 97216"
+                ]
+            },
+            "phone": "+15032525153",
+            "display_phone": "(503) 252-5153",
+            "distance": 7348.784630380642
+        },
+        {
+            "id": "nRLW0LmakcgSbiW2Qygrqg",
+            "alias": "burger-king-portland-14",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VC_3kwMgU4l7TwzVtVoKDQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-14?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 45.43895,
+                "longitude": -122.57848
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "11590 SE 82nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97086",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "11590 SE 82nd Ave",
+                    "Portland, OR 97086"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 10372.15933082695
+        },
+        {
+            "id": "40f-kic3lacADUo54F7jHA",
+            "alias": "burger-king-portland-7",
+            "name": "Burger King",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HsqEhBJRibhK1mTXp3-5cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 42,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 45.5033624470232,
+                "longitude": -122.539053373039
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "12044 Se Division Street",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97266",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "12044 Se Division Street",
+                    "Portland, OR 97266"
+                ]
+            },
+            "phone": "+15038208078",
+            "display_phone": "(503) 820-8078",
+            "distance": 9071.777974858313
+        },
+        {
+            "id": "cYqvVQUQ7A3sQ3meaIIQ6g",
+            "alias": "burger-king-portland-30",
+            "name": "Burger King",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TSMNpgaSoSdi32_jKres6g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-30?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.6111183166504,
+                "longitude": -122.677001953125
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "12225 North Jantzen Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97217",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "12225 North Jantzen Ave",
+                    "Portland, OR 97217"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 10749.23582749709
+        },
+        {
+            "id": "LIa2n4-mBHNaaRJWh1iVrQ",
+            "alias": "burger-king-portland-12",
+            "name": "Burger King",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BUGhzK_u_auXJ467gRe3zA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-12?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 20,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.56774,
+                "longitude": -122.5384
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "12005 N E Airport Way",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97220",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "12005 N E Airport Way",
+                    "Portland, OR 97220"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 10692.557688027653
+        },
+        {
+            "id": "XQP1pb3082C2HkIXTFRlLQ",
+            "alias": "burger-king-portland-27",
+            "name": "Burger King",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zZj-SxyLpPSyiQjS7EwGEQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-27?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.53973,
+                "longitude": -122.47774
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2301 N E 181 Street",
+                "address2": null,
+                "address3": null,
+                "city": "Portland",
+                "zip_code": "97230",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "2301 N E 181 Street",
+                    "Portland, OR 97230"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 13987.61683430142
+        },
+        {
+            "id": "DafLLYtPGsW-bBM9eGNjfw",
+            "alias": "burger-king-portland-25",
+            "name": "Burger King",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7tr1gT5VLb97OHaBYk-ipw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-25?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 25,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 45.49233,
+                "longitude": -122.48637
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "17218 SE Powell Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "zip_code": "97236",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "17218 SE Powell Blvd",
+                    "Portland, OR 97236"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 13327.490800286816
+        },
+        {
+            "id": "bfiW0j1HVsL0WayOoI0LVw",
+            "alias": "burger-king-portland-31",
+            "name": "Burger King",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3Ceozbi0vWQbJcPFnW4nag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-31?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.5937560593736,
+                "longitude": -122.681472301483
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "9816 North Whitaker Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97217",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "9816 North Whitaker Rd",
+                    "Portland, OR 97217"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 8927.787572196807
+        },
+        {
+            "id": "3CEe0vm46qJeAB03AWQd8w",
+            "alias": "burger-king-portland-6",
+            "name": "Burger King",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burger-king-portland-6?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 45.446927,
+                "longitude": -122.789752
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "Scholls Ferry & SW N",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97223",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "Scholls Ferry & SW N",
+                    "Portland, OR 97223"
+                ]
+            },
+            "phone": "+15036394853",
+            "display_phone": "(503) 639-4853",
+            "distance": 13055.700184662164
+        }
+    ]
+}

@@ -1,0 +1,649 @@
+{
+    "businesses": [
+        {
+            "id": "dkzLhYvaP8cb27K91ZNvfg",
+            "alias": "mcdonalds-portland-4",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AqILZdAATBeVmqIhf_pt-w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-4?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 67,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 45.53407,
+                "longitude": -122.66032
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1520 NE Grand",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97232",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "1520 NE Grand",
+                    "Portland, OR 97232"
+                ]
+            },
+            "phone": "+15032877719",
+            "display_phone": "(503) 287-7719",
+            "distance": 2090.1409602681033
+        },
+        {
+            "id": "d-AFGxgOM-fQVODjFSMxsw",
+            "alias": "mcdonalds-portland-2",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MMSIxz9wd3spL7U4r0ZR3Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 52,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 45.5165891,
+                "longitude": -122.6801481
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1035 SW 6th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97204",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "1035 SW 6th Ave",
+                    "Portland, OR 97204"
+                ]
+            },
+            "phone": "+15032951234",
+            "display_phone": "(503) 295-1234",
+            "distance": 2030.4340278116606
+        },
+        {
+            "id": "youvLCFOlb3X_-yYVs2_eA",
+            "alias": "mcdonalds-portland-5",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/amokgPkXMEowjAvVvRyeFQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 62,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.5231804,
+                "longitude": -122.690010265214
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1831 W Burnside",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97209",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "1831 W Burnside",
+                    "Portland, OR 97209"
+                ]
+            },
+            "phone": "+15032276870",
+            "display_phone": "(503) 227-6870",
+            "distance": 2915.0920500580496
+        },
+        {
+            "id": "GpL_bSYuUA0JepPygA5JNw",
+            "alias": "mcdonalds-portland-17",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eqnBDsTQninRVoUiBpWjIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-17?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.5372737992443,
+                "longitude": -122.62248431216
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2010 NE Cesar E Chavez Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97212",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "2010 NE Cesar E Chavez Blvd",
+                    "Portland, OR 97212"
+                ]
+            },
+            "phone": "+15032821234",
+            "display_phone": "(503) 282-1234",
+            "distance": 3432.2463135717976
+        },
+        {
+            "id": "E4ejoHJHIOvVhkca3kWRuQ",
+            "alias": "mcdonalds-portland-3",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/42welDny67fiSJPs3xW8Qw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 71,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.4977464697005,
+                "longitude": -122.6360719
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2875 SE Powell Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97202",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "2875 SE Powell Blvd",
+                    "Portland, OR 97202"
+                ]
+            },
+            "phone": "+15032334029",
+            "display_phone": "(503) 233-4029",
+            "distance": 2449.5145858489414
+        },
+        {
+            "id": "Lq5E-kgn-hycdXa6SiBjVw",
+            "alias": "mcdonalds-portland-34",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u-Orl3mHv9O7QEoAHEKulA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-34?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 45.4971658,
+                "longitude": -122.5699139
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "9100 SE Powell Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97266",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "9100 SE Powell Blvd",
+                    "Portland, OR 97266"
+                ]
+            },
+            "phone": "+15037750339",
+            "display_phone": "(503) 775-0339",
+            "distance": 6880.46215753239
+        },
+        {
+            "id": "AL3wuMbgJSKcpagQDKNocA",
+            "alias": "mcdonalds-portland-30",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wxArWEGghlKbm-3cbfSMaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-30?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 21,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.5469644746998,
+                "longitude": -122.578417807817
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3330 NE 82nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97220",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "3330 NE 82nd Ave",
+                    "Portland, OR 97220"
+                ]
+            },
+            "phone": "+15032545349",
+            "display_phone": "(503) 254-5349",
+            "distance": 6840.004837431654
+        },
+        {
+            "id": "j2DJm-bFKBqWc8vaEuWPGQ",
+            "alias": "mcdonalds-portland-46",
+            "name": "McDonald's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ngdS9eyee5eD9kEYtkMPcA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-46?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.5193870266852,
+                "longitude": -122.579439729452
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8149 SE Stark",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97215",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "8149 SE Stark",
+                    "Portland, OR 97215"
+                ]
+            },
+            "phone": "+15032511211",
+            "display_phone": "(503) 251-1211",
+            "distance": 5831.854434114808
+        },
+        {
+            "id": "EfkYxosGakGk2VNMfzpQWw",
+            "alias": "mcdonalds-portland-28",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FOpTAOTsSGPJXeJ_GBSfNQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-28?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 45.5556280025677,
+                "longitude": -122.698744386435
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3110 N Going St",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97217",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "3110 N Going St",
+                    "Portland, OR 97217"
+                ]
+            },
+            "phone": "+15037359076",
+            "display_phone": "(503) 735-9076",
+            "distance": 5631.285373126237
+        },
+        {
+            "id": "DuYgeezpFq-7ze8Iyf3Rkg",
+            "alias": "mcdonalds-portland-31",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lfNZ8V1yKX4Zeo_XLhYrKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-31?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.5816960580834,
+                "longitude": -122.662076825195
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8011 NE Martin Luther King Jr Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97211",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "8011 NE Martin Luther King Jr Blvd",
+                    "Portland, OR 97211"
+                ]
+            },
+            "phone": "+15032836733",
+            "display_phone": "(503) 283-6733",
+            "distance": 7355.108080874997
+        },
+        {
+            "id": "LITyQa99N2j6r_Q5zJ3CmA",
+            "alias": "mcdonalds-portland-13",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0zasKA1SFN336K2BPsQjMA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-13?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 45.5384574224619,
+                "longitude": -122.477741092443
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2231 NE 181st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97230",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "2231 NE 181st Ave",
+                    "Portland, OR 97230"
+                ]
+            },
+            "phone": "+15036670722",
+            "display_phone": "(503) 667-0722",
+            "distance": 13968.786282582876
+        },
+        {
+            "id": "yK94eQsHtI6ztqzCs9tOaQ",
+            "alias": "mcdonalds-portland-25",
+            "name": "McDonald's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4mh74e_bnwfo6j783RBGRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-25?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 50,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 45.4526481480901,
+                "longitude": -122.722526192665
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "10050 SW Barbur Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97219",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "10050 SW Barbur Blvd",
+                    "Portland, OR 97219"
+                ]
+            },
+            "phone": "+15032466711",
+            "display_phone": "(503) 246-6711",
+            "distance": 8816.625444199393
+        },
+        {
+            "id": "hS1QkoZz9KvMZMJfDCBTug",
+            "alias": "mcdonalds-portland-47",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hDVnLLouaoPLMCQd6e6LmQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-47?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 45,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 45.589565,
+                "longitude": -122.598465
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "7000 NE Airport Way",
+                "address2": "Ste 220",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97218",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "7000 NE Airport Way",
+                    "Ste 220",
+                    "Portland, OR 97218"
+                ]
+            },
+            "phone": "+15032810679",
+            "display_phone": "(503) 281-0679",
+            "distance": 9277.90669786946
+        },
+        {
+            "id": "vFcY7MNOTYJljV3rRqPQvQ",
+            "alias": "mcdonalds-portland-14",
+            "name": "McDonald's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fbCPg8B-ePtHX9PLbyTdbw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-portland-14?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 45.6101663,
+                "longitude": -122.68059656024
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "12005 N Center St",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97217",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "12005 N Center St",
+                    "Portland, OR 97217"
+                ]
+            },
+            "phone": "+15032892127",
+            "display_phone": "(503) 289-2127",
+            "distance": 10695.259813934234
+        }
+    ]
+}

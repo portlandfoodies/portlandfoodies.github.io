@@ -1,0 +1,1006 @@
+{
+    "businesses": [
+        {
+            "id": "lG5eARQDSoUAG7N4Bhc8zw",
+            "alias": "burgerville-portland",
+            "name": "Burgerville",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LSyfV-JbNk7J08HQ8tXN2Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-portland?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 159,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.51185,
+                "longitude": -122.65399
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1122 SE Hawthorne Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97214",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "1122 SE Hawthorne Blvd",
+                    "Portland, OR 97214"
+                ]
+            },
+            "phone": "+15032300479",
+            "display_phone": "(503) 230-0479",
+            "distance": 418.8794700130008
+        },
+        {
+            "id": "l7SNW2oHtTsj8WcOIQyjWA",
+            "alias": "burgerville-portland-8",
+            "name": "Burgerville",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WPvnprVqI2wuQSCbjFlZlA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-portland-8?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 247,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.5310974121094,
+                "longitude": -122.662002563477
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1135 NE Martin Luther King Jr Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97232",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "1135 NE Martin Luther King Jr Blvd",
+                    "Portland, OR 97232"
+                ]
+            },
+            "phone": "+15032356858",
+            "display_phone": "(503) 235-6858",
+            "distance": 1797.9905455041924
+        },
+        {
+            "id": "NUiOOJML2GN3_34V-Pn3Sw",
+            "alias": "burgerville-portland-3",
+            "name": "Burgerville",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OJ2wFbyHSPsjDq6_1d7M5g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-portland-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 103,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.4982643127441,
+                "longitude": -122.639923095703
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "3432 SE 25th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97202",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "3432 SE 25th Ave",
+                    "Portland, OR 97202"
+                ]
+            },
+            "phone": "+15032395942",
+            "display_phone": "(503) 239-5942",
+            "distance": 2229.291182527991
+        },
+        {
+            "id": "GqbJis9z4drZ7A9epXXP7w",
+            "alias": "burgerville-portland-5",
+            "name": "Burgerville",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qWzR6JRAvU6zSyL9KO-9tw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 78,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 45.4971171000123,
+                "longitude": -122.568030217816
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3504 SE 92nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97266",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "3504 SE 92nd Ave",
+                    "Portland, OR 97266"
+                ]
+            },
+            "phone": "+15037777078",
+            "display_phone": "(503) 777-7078",
+            "distance": 7022.191788680624
+        },
+        {
+            "id": "EiemWJDwqXUZzIWaf8q0Zw",
+            "alias": "burgerville-portland-7",
+            "name": "Burgerville",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m_k9ojo15rsSZ9cZxb9XeQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-portland-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 87,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 45.526314,
+                "longitude": -122.578675
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8218 NE Glisan St",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97220",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "8218 NE Glisan St",
+                    "Portland, OR 97220"
+                ]
+            },
+            "phone": "+15032552815",
+            "display_phone": "(503) 255-2815",
+            "distance": 5992.774635079478
+        },
+        {
+            "id": "TBFWfpE-6INPQ9xd9dhVRg",
+            "alias": "burgerville-signature-tigard",
+            "name": "Burgerville Signature",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vIhWHJEx994ZNmQQ1HSFSA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-signature-tigard?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 45.443428,
+                "longitude": -122.803311
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "12282 SW Scholls Ferry Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Tigard",
+                "zip_code": "97223",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "12282 SW Scholls Ferry Rd",
+                    "Tigard, OR 97223"
+                ]
+            },
+            "phone": "+15037472585",
+            "display_phone": "(503) 747-2585",
+            "distance": 14143.685567625473
+        },
+        {
+            "id": "Igxf_fe3KhCsqtnMQUYFXA",
+            "alias": "burgerville-lake-oswego",
+            "name": "Burgerville",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9qZDuJHoicvSsBFuzR6utQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-lake-oswego?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 118,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.406629497086,
+                "longitude": -122.74566903703
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "15650 SW Upper Boones Ferry Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Lake Oswego",
+                "zip_code": "97035",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "15650 SW Upper Boones Ferry Rd",
+                    "Lake Oswego, OR 97035"
+                ]
+            },
+            "phone": "+15036848142",
+            "display_phone": "(503) 684-8142",
+            "distance": 14082.16082302241
+        },
+        {
+            "id": "WjnAO5TxoE1FPvXrVuYSJg",
+            "alias": "burgerville-portland-17",
+            "name": "Burgerville",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yFd9CkzkIhWWRNgEaj5_Cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-portland-17?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 78,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 45.58996,
+                "longitude": -122.75555
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8671 N Ivanhoe",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97203",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "8671 N Ivanhoe",
+                    "Portland, OR 97203"
+                ]
+            },
+            "phone": "+15032868600",
+            "display_phone": "(503) 286-8600",
+            "distance": 11408.2493932548
+        },
+        {
+            "id": "y-MM8_RYgtvgyJojV1RWLg",
+            "alias": "burgerville-tigard",
+            "name": "Burgerville",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RjY3Ai0SWA1FAnLaIPrz9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-tigard?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 72,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.4275398,
+                "longitude": -122.777746
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "12785 SW Pacific Hwy",
+                "address2": null,
+                "address3": null,
+                "city": "Tigard",
+                "zip_code": "97223",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "12785 SW Pacific Hwy",
+                    "Tigard, OR 97223"
+                ]
+            },
+            "phone": "+15035976555",
+            "display_phone": "(503) 597-6555",
+            "distance": 13755.799946222854
+        },
+        {
+            "id": "OasPlHP7LwQrPBPlJhz4mA",
+            "alias": "burgerville-portland-10",
+            "name": "Burgerville",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lCS_gDrsF0nLXYxNOway3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-portland-10?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.5049209594727,
+                "longitude": -122.496116638184
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "16211 SE Division St",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97236",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "16211 SE Division St",
+                    "Portland, OR 97236"
+                ]
+            },
+            "phone": "+15037621648",
+            "display_phone": "(503) 762-1648",
+            "distance": 12355.517408759868
+        },
+        {
+            "id": "dmifToKlruICKcfqGAlvNg",
+            "alias": "burgerville-vancouver-7",
+            "name": "Burgerville",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Uw2f6oIQGOvW4Gg6GkcP4w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-vancouver-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 65,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.6387799,
+                "longitude": -122.64719
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2200 E Fourth Plain Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "98661",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "2200 E Fourth Plain Blvd",
+                    "Vancouver, WA 98661"
+                ]
+            },
+            "phone": "+13606960308",
+            "display_phone": "(360) 696-0308",
+            "distance": 13674.822257396247
+        },
+        {
+            "id": "B1Ug7yI_M26uiaMw6-XsNQ",
+            "alias": "burgerville-usa-hillsboro",
+            "name": "Burgerville USA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/e_1ejis7cla2vq68k-PpJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-usa-hillsboro?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 91,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.5312138104188,
+                "longitude": -122.957964337434
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2401 NE Cornell Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Hillsboro",
+                "zip_code": "97124",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "2401 NE Cornell Rd",
+                    "Hillsboro, OR 97124"
+                ]
+            },
+            "phone": "+15036487787",
+            "display_phone": "(503) 648-7787",
+            "distance": 23733.528760364217
+        },
+        {
+            "id": "D_T4ZzvikWBa3TktwvASdQ",
+            "alias": "burgerville-vancouver-9",
+            "name": "Burgerville",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VmgBQztX9iS1iOwcf9ChFA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-vancouver-9?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 117,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.717874307783,
+                "longitude": -122.65190781249
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "13301 NE Hwy 99",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "98686",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "13301 NE Hwy 99",
+                    "Vancouver, WA 98686"
+                ]
+            },
+            "phone": "+13605738223",
+            "display_phone": "(360) 573-8223",
+            "distance": 22471.891645072646
+        },
+        {
+            "id": "cvODOGR-22hLvRcjCw7Vvw",
+            "alias": "bar-bar-portland-5",
+            "name": "Bar Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GUeG8WTkazz1C7C8al4GeA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bar-bar-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 255,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.5515842123282,
+                "longitude": -122.675732967469
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3939 N Mississippi",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97227",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "3939 N Mississippi",
+                    "Portland, OR 97227"
+                ]
+            },
+            "phone": "+15038890090",
+            "display_phone": "(503) 889-0090",
+            "distance": 4322.170365694864
+        },
+        {
+            "id": "QBG693NWx1SUl2L_oCTmRw",
+            "alias": "burgerville-west-linn",
+            "name": "Burgerville",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kwOhg8_QqKYIhK4Eo57WAw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-west-linn?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 45,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.39266,
+                "longitude": -122.64692
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "18350 Willamette Dr",
+                "address2": "",
+                "address3": "",
+                "city": "West Linn",
+                "zip_code": "97068",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "18350 Willamette Dr",
+                    "West Linn, OR 97068"
+                ]
+            },
+            "phone": "+15036357339",
+            "display_phone": "(503) 635-7339",
+            "distance": 13702.020425795647
+        },
+        {
+            "id": "-NnS0bD-54l7NiY2ygWYSg",
+            "alias": "burgerville-canby",
+            "name": "Burgerville",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_t6TBGq6nH26vlErvHw3KQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-canby?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.25745,
+                "longitude": -122.70127
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "909 SW 1st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Canby",
+                "zip_code": "97013",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "909 SW 1st Ave",
+                    "Canby, OR 97013"
+                ]
+            },
+            "phone": "+15032662568",
+            "display_phone": "(503) 266-2568",
+            "distance": 28957.920276271187
+        },
+        {
+            "id": "Vn9e5Q7TwP3PtkEx-FHExw",
+            "alias": "five-guys-beaverton-2",
+            "name": "Five Guys",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GKJwvTUi5YAqe2li4rKMmA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/five-guys-beaverton-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 288,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.5007806,
+                "longitude": -122.8056104
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "2606 Cedar Hills Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Beaverton",
+                "zip_code": "97005",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "2606 Cedar Hills Blvd",
+                    "Beaverton, OR 97005"
+                ]
+            },
+            "phone": "+15034308748",
+            "display_phone": "(503) 430-8748",
+            "distance": 11922.841885091046
+        },
+        {
+            "id": "O_VcNEx8xj69pEEmnOToGg",
+            "alias": "industrial-cafe-and-saloon-portland",
+            "name": "Industrial Cafe and Saloon",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mFd44rsVoKHzL3FsZg6sww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/industrial-cafe-and-saloon-portland?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 243,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.5365899,
+                "longitude": -122.70429
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2572 NW Vaughn St",
+                "address2": "",
+                "address3": "",
+                "city": "Portland",
+                "zip_code": "97210",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "2572 NW Vaughn St",
+                    "Portland, OR 97210"
+                ]
+            },
+            "phone": "+15032277002",
+            "display_phone": "(503) 227-7002",
+            "distance": 4546.344948788456
+        },
+        {
+            "id": "xgQHYuLa3E3ncTB8v5IgUQ",
+            "alias": "burgerville-usa-vancouver-3",
+            "name": "Burgerville USA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wCDDr82kGlDZQRY9YqNpuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-usa-vancouver-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 53,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.62497,
+                "longitude": -122.59507
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "7401 E Mill Plain Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "98664",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "7401 E Mill Plain Blvd",
+                    "Vancouver, WA 98664"
+                ]
+            },
+            "phone": "+13606944971",
+            "display_phone": "(360) 694-4971",
+            "distance": 12990.27132936678
+        },
+        {
+            "id": "ZhMIGqlnoz3g9vpzTcGaCQ",
+            "alias": "main-event-sports-grill-vancouver-3",
+            "name": "Main Event Sports Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PULv0noVHIzjaXNLZn8j_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/main-event-sports-grill-vancouver-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 187,
+            "categories": [
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.5975726269093,
+                "longitude": -122.505250329015
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3200 SE 164th Ave",
+                "address2": "Ste 204",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "98683",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "3200 SE 164th Ave",
+                    "Ste 204",
+                    "Vancouver, WA 98683"
+                ]
+            },
+            "phone": "+13608288583",
+            "display_phone": "(360) 828-8583",
+            "distance": 14732.370946435964
+        },
+        {
+            "id": "6qN3FOhU5WHF-QEWyXOnSA",
+            "alias": "burgerville-vancouver-2",
+            "name": "Burgerville",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Sys4ramaHcUZqgWQxahJTw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-vancouver-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.67092,
+                "longitude": -122.50728
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6700 NE 162nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "98682",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "6700 NE 162nd Ave",
+                    "Vancouver, WA 98682"
+                ]
+            },
+            "phone": "+13605671550",
+            "display_phone": "(360) 567-1550",
+            "distance": 20682.44290540858
+        },
+        {
+            "id": "PWnIi2AwrNRZTGPmcmjMeA",
+            "alias": "burgerville-battle-ground",
+            "name": "Burgerville",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mWA9XHfBYoFcoDwOHgq13A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burgerville-battle-ground?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.7803391242447,
+                "longitude": -122.540162801326
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "217 E Main St",
+                "address2": "",
+                "address3": "",
+                "city": "Battle Ground",
+                "zip_code": "98604",
+                "country": "US",
+                "state": "WA",
+                "display_address": [
+                    "217 E Main St",
+                    "Battle Ground, WA 98604"
+                ]
+            },
+            "phone": "+13606877308",
+            "display_phone": "(360) 687-7308",
+            "distance": 30721.613342500234
+        },
+        {
+            "id": "Bd9eV8DWWWJrZfuDX-lL1g",
+            "alias": "wendys-wilsonville",
+            "name": "Wendy's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/txozUb97PAiWvvbRmYZIhw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wendys-wilsonville?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 45.303192,
+                "longitude": -122.763539
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "8253 Sw Wilsonville Road",
+                "address2": "",
+                "address3": "",
+                "city": "Wilsonville",
+                "zip_code": "97070",
+                "country": "US",
+                "state": "OR",
+                "display_address": [
+                    "8253 Sw Wilsonville Road",
+                    "Wilsonville, OR 97070"
+                ]
+            },
+            "phone": "+15036827920",
+            "display_phone": "(503) 682-7920",
+            "distance": 25128.890937888587
+        }
+    ],
+    "total": 60,
+    "region": {
+        "center": {
+            "longitude": -122.65411376953125,
+            "latitude": 45.515785397030584
+        }
+    }
+}

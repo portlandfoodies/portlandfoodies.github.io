@@ -1,0 +1,511 @@
+{
+    "business_reviews": [
+        {
+            "id": "rpufQKVhiwXMeDLAE5Y3pQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-11?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=rpufQKVhiwXMeDLAE5Y3pQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "5 stars for the Impossible Whopper- it seriously is a game changer.  It is every bit as good as the OG Whopper but it's plant based, even if you consider...",
+            "rating": 4,
+            "time_created": "2019-11-03 13:38:11",
+            "user": {
+                "id": "gLilltBBzYLIvQeOtnhsLg",
+                "profile_url": "https://www.yelp.com/user_details?userid=gLilltBBzYLIvQeOtnhsLg",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/L8jC7vL0HN-vjgBSZJrjFQ/o.jpg",
+                "name": "Katie K."
+            }
+        },
+        {
+            "id": "KQUlgQmBq6A7bI3twnlj_A",
+            "url": "https://www.yelp.com/biz/burger-king-portland-11?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=KQUlgQmBq6A7bI3twnlj_A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I have never before wished there was a zero star option. But now we are here. Genuinely one of the worst, if not the worst customer service experience I...",
+            "rating": 1,
+            "time_created": "2020-02-21 18:51:58",
+            "user": {
+                "id": "atW2lT3lDxhjsk-kgsOAgQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=atW2lT3lDxhjsk-kgsOAgQ",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/e3CoWpEjANuJDS2Xr_8qww/o.jpg",
+                "name": "Sam K."
+            }
+        },
+        {
+            "id": "_ZlNgJLGWCk2Q8jj8h1-Xg",
+            "url": "https://www.yelp.com/biz/burger-king-portland-11?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=_ZlNgJLGWCk2Q8jj8h1-Xg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Having worked at a Burger King for a few years as my first job, l was always interested in seeing how other BK Lounges operated. This Burger King is by far...",
+            "rating": 1,
+            "time_created": "2019-11-15 00:42:36",
+            "user": {
+                "id": "AvOOMj_wGDniKjoEi6v-5w",
+                "profile_url": "https://www.yelp.com/user_details?userid=AvOOMj_wGDniKjoEi6v-5w",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/DY9AbHE9XsR6z8vbQ4XfRg/o.jpg",
+                "name": "Kenneth Z."
+            }
+        },
+        {
+            "id": "Lg7SECHBe1qFTPf3V5XRBQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=Lg7SECHBe1qFTPf3V5XRBQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Employees were very nice and helpful, but I found it really unprofessional that there was a manager yelling at the associates in front of a long line of...",
+            "rating": 3,
+            "time_created": "2019-10-26 20:15:33",
+            "user": {
+                "id": "McoZPvfGxSWOCceDZMPAxQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=McoZPvfGxSWOCceDZMPAxQ",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/rrp8VAbAeL4IcczcDOAkFA/o.jpg",
+                "name": "Alanna P."
+            }
+        },
+        {
+            "id": "ZnhQ__SLmTS1hP5N9cviCA",
+            "url": "https://www.yelp.com/biz/burger-king-portland-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=ZnhQ__SLmTS1hP5N9cviCA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "The location was closed before the specified time at 11 pm (drive-thru). This is not the first time I've experienced this issue.",
+            "rating": 1,
+            "time_created": "2020-02-19 19:06:32",
+            "user": {
+                "id": "zr-4iRjMNCgkR8J9GEqxIg",
+                "profile_url": "https://www.yelp.com/user_details?userid=zr-4iRjMNCgkR8J9GEqxIg",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/qlj7ZGUOC_fcXDtRBxLxuw/o.jpg",
+                "name": "Ashlea F."
+            }
+        },
+        {
+            "id": "uIE0AmATvQq1NYNkdYf9tQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=uIE0AmATvQq1NYNkdYf9tQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "One job to do... \nMost employees of Burger places probably have a view of their job as being temporary, not important, stepping stone... But if  you are...",
+            "rating": 1,
+            "time_created": "2019-07-30 12:29:15",
+            "user": {
+                "id": "JsprdFm7IQrBYYCAKpi8zw",
+                "profile_url": "https://www.yelp.com/user_details?userid=JsprdFm7IQrBYYCAKpi8zw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/RKmXf-VDNR7OQQ5Pb9gFzw/o.jpg",
+                "name": "Jerry P."
+            }
+        },
+        {
+            "id": "pVY7qO6__VnebXElQWSOrg",
+            "url": "https://www.yelp.com/biz/burger-king-portland-21?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=pVY7qO6__VnebXElQWSOrg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "We ordered the 2 for $6 Impossible Whoppers and large french fries to share. Lunch for two under $10.\n\nThe Whoppers were great, tasted like a meat Whopper...",
+            "rating": 4,
+            "time_created": "2020-02-16 09:25:55",
+            "user": {
+                "id": "yCco2hDP_UMjYDfnkpKtsw",
+                "profile_url": "https://www.yelp.com/user_details?userid=yCco2hDP_UMjYDfnkpKtsw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/PofHcR1SRxlaiGmJ-I-CLA/o.jpg",
+                "name": "Aubrey S."
+            }
+        },
+        {
+            "id": "P713I08aJiYfJoibdClYDg",
+            "url": "https://www.yelp.com/biz/burger-king-portland-21?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=P713I08aJiYfJoibdClYDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This particular Location is exceptionally off. I love my burger king junk food but, wow this location needs to remember people are eating the food they...",
+            "rating": 1,
+            "time_created": "2019-09-30 12:10:47",
+            "user": {
+                "id": "RxSJcCZGxW0WXnTkv885kQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=RxSJcCZGxW0WXnTkv885kQ",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/GowrbFUVhWgyUny4G-M9LQ/o.jpg",
+                "name": "Rondle X."
+            }
+        },
+        {
+            "id": "VlsJ46IvVj4PAjDCOZvnCQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-21?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=VlsJ46IvVj4PAjDCOZvnCQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "As I have sat here waiting 20 minutes for our meal, as many people who have come in the door, have left without ordering. Since we have ordered, I went to...",
+            "rating": 2,
+            "time_created": "2019-09-28 12:59:21",
+            "user": {
+                "id": "lNLhasZUBGrAs-7VQFSqpw",
+                "profile_url": "https://www.yelp.com/user_details?userid=lNLhasZUBGrAs-7VQFSqpw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/QButAgXrThFN9JzXDxi1kw/o.jpg",
+                "name": "Robb R."
+            }
+        },
+        {
+            "id": "M_8AkrDUIMOkbpTZKJ97xQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-20?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=M_8AkrDUIMOkbpTZKJ97xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I really like this Burger King, they have yet to let me down and I've been to this one several times. I hate onions and every time my order is correct. I...",
+            "rating": 4,
+            "time_created": "2019-10-24 18:07:38",
+            "user": {
+                "id": "be0WJQPyDWvnCecyHntP4w",
+                "profile_url": "https://www.yelp.com/user_details?userid=be0WJQPyDWvnCecyHntP4w",
+                "image_url": null,
+                "name": "Adela G."
+            }
+        },
+        {
+            "id": "zr9dICpoWFGTHDElY3KeeA",
+            "url": "https://www.yelp.com/biz/burger-king-portland-20?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=zr9dICpoWFGTHDElY3KeeA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Poor customer service. I was asked to pull around to the front and wait for my food AGAIN at this location. I waited for a long time out here. \nThe...",
+            "rating": 1,
+            "time_created": "2019-08-30 16:07:24",
+            "user": {
+                "id": "JsprdFm7IQrBYYCAKpi8zw",
+                "profile_url": "https://www.yelp.com/user_details?userid=JsprdFm7IQrBYYCAKpi8zw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/RKmXf-VDNR7OQQ5Pb9gFzw/o.jpg",
+                "name": "Jerry P."
+            }
+        },
+        {
+            "id": "X6kG9YEgKpGXH_vdCJQU_g",
+            "url": "https://www.yelp.com/biz/burger-king-portland-20?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=X6kG9YEgKpGXH_vdCJQU_g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Here is my LARGE COKE and SMALL ORANGE SODA! I hate this Burgerking more than any other fast food joint. All the employees are just plain lazy, and acting...",
+            "rating": 1,
+            "time_created": "2019-09-15 10:46:13",
+            "user": {
+                "id": "bIpKVLDXEiipKx8WTfQ6_g",
+                "profile_url": "https://www.yelp.com/user_details?userid=bIpKVLDXEiipKx8WTfQ6_g",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/rCjec7CiTtsXFS38Gtjs4g/o.jpg",
+                "name": "Brett J."
+            }
+        },
+        {
+            "id": "ZrztOwWcqgsazKVL9tItYA",
+            "url": "https://www.yelp.com/biz/burger-king-portland-14?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=ZrztOwWcqgsazKVL9tItYA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "The manager lady there tonight gave me my meal free after i couldn't find my wallet. She just said to pay next time. Needless to say it fell out of my car...",
+            "rating": 5,
+            "time_created": "2015-12-23 21:39:03",
+            "user": {
+                "id": "5m_t290HsdvjPmaBpX4fQA",
+                "profile_url": "https://www.yelp.com/user_details?userid=5m_t290HsdvjPmaBpX4fQA",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/hrxNrC98hzkfJDDXGlAgSA/o.jpg",
+                "name": "Chris G."
+            }
+        },
+        {
+            "id": "iN_FieUQSsrI0fJ_Xvhl1A",
+            "url": "https://www.yelp.com/biz/burger-king-portland-14?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=iN_FieUQSsrI0fJ_Xvhl1A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I did a review a week ago and it mysteriously disappeared.   Zero stars to this BK.   The place was a mess.  Tables dirty, wallpaper coming off the wall and...",
+            "rating": 1,
+            "time_created": "2019-05-08 19:49:09",
+            "user": {
+                "id": "9RixgmnFfvW2wWWcCXGB4g",
+                "profile_url": "https://www.yelp.com/user_details?userid=9RixgmnFfvW2wWWcCXGB4g",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/oKbhRdGlB044lUZ8uz8Luw/o.jpg",
+                "name": "Leslie H."
+            }
+        },
+        {
+            "id": "LqN3df13tt0SyCvyIjLLfQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-14?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=LqN3df13tt0SyCvyIjLLfQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I don't frequent Fast Food, but once in a while I give in... Tody was one of those days... Stopped by this BK, and ordered a Spicy Chix Sandwich...\n\nPlaced...",
+            "rating": 1,
+            "time_created": "2018-05-23 20:07:35",
+            "user": {
+                "id": "tASvpPy5_FuGTFVMXhg0Ng",
+                "profile_url": "https://www.yelp.com/user_details?userid=tASvpPy5_FuGTFVMXhg0Ng",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/M0fTfPa8Nw9CnRcmELeVQg/o.jpg",
+                "name": "J R."
+            }
+        },
+        {
+            "id": "ZdoDiSwayeq6LngQ1CSsVg",
+            "url": "https://www.yelp.com/biz/burger-king-portland-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=ZdoDiSwayeq6LngQ1CSsVg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This is a review of the new fish sandwich, not the restaurant.\n\nI ordered it with the King's Hawaiian bun, no cheese, no tomato.\n\nOrdinarily i am suspicious...",
+            "rating": 4,
+            "time_created": "2019-12-27 11:45:30",
+            "user": {
+                "id": "kHJEasLKNNhXUmRh2lVA6g",
+                "profile_url": "https://www.yelp.com/user_details?userid=kHJEasLKNNhXUmRh2lVA6g",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/4Tc7kW6g3jMfwVb8sODAqg/o.jpg",
+                "name": "Kaiser B."
+            }
+        },
+        {
+            "id": "ONC2e6wfMn0ZkLorJzI2qg",
+            "url": "https://www.yelp.com/biz/burger-king-portland-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=ONC2e6wfMn0ZkLorJzI2qg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Unfortunately, this is the second negative review I've made for a fast food joint at the same chain. I went before the designated closing time (11 pm) of...",
+            "rating": 1,
+            "time_created": "2020-02-19 19:11:35",
+            "user": {
+                "id": "zr-4iRjMNCgkR8J9GEqxIg",
+                "profile_url": "https://www.yelp.com/user_details?userid=zr-4iRjMNCgkR8J9GEqxIg",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/qlj7ZGUOC_fcXDtRBxLxuw/o.jpg",
+                "name": "Ashlea F."
+            }
+        },
+        {
+            "id": "ib_1BzPBGQdgkLz6vGyLXg",
+            "url": "https://www.yelp.com/biz/burger-king-portland-2?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=ib_1BzPBGQdgkLz6vGyLXg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Ordered a rodeo burger meal, when I got home it was a WHOPPER meal. Plus cold AF fries. Not to mention the Mexican kid with a diamond earring sighed the...",
+            "rating": 1,
+            "time_created": "2020-01-03 21:49:11",
+            "user": {
+                "id": "znaBohxKMUyVJ2YYTvgsbg",
+                "profile_url": "https://www.yelp.com/user_details?userid=znaBohxKMUyVJ2YYTvgsbg",
+                "image_url": null,
+                "name": "Randoma F."
+            }
+        },
+        {
+            "id": "SgvlrX0BNahL9F0lYyyVHg",
+            "url": "https://www.yelp.com/biz/burger-king-portland-10?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=SgvlrX0BNahL9F0lYyyVHg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Boy, how disappointed can a person be in breakfast. My class was canceled this morning and I was hungry so I decided to stop in to Burger King for a bite....",
+            "rating": 2,
+            "time_created": "2020-01-17 08:22:26",
+            "user": {
+                "id": "PGrMxh4ANie8DGVxUh3DxA",
+                "profile_url": "https://www.yelp.com/user_details?userid=PGrMxh4ANie8DGVxUh3DxA",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/__KMsaAGCHnhrc7ElxQqFA/o.jpg",
+                "name": "Bubba Y."
+            }
+        },
+        {
+            "id": "57dlCIUsKN51GrRQRJgGaQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-10?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=57dlCIUsKN51GrRQRJgGaQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I literally just pulled up and got this at the drive through. \"We're not open! We're not ready!\"\nI asked when do you open then?\n\"Whenever we're ready!\"\nAre...",
+            "rating": 1,
+            "time_created": "2018-12-01 06:09:19",
+            "user": {
+                "id": "4bxfWPts5Y49TK5WB3jDLQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=4bxfWPts5Y49TK5WB3jDLQ",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/DS_QKLyHZb-F3O-vKspaqg/o.jpg",
+                "name": "Anna F."
+            }
+        },
+        {
+            "id": "stmbmVsPUwqRFEo3klGtqQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-10?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=stmbmVsPUwqRFEo3klGtqQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I'm sorry but this is THE WORST establishment I have ever been to. The restaurant had a drunk driver crash into the drive thru and waited over 2 months to...",
+            "rating": 1,
+            "time_created": "2018-07-29 07:53:53",
+            "user": {
+                "id": "jtsomriOGZ4I21633pEddA",
+                "profile_url": "https://www.yelp.com/user_details?userid=jtsomriOGZ4I21633pEddA",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/1dAX_FT8HMERQPSxQaR0TQ/o.jpg",
+                "name": "Corey S."
+            }
+        },
+        {
+            "id": "V2GZnoMQxHlX15m6GFl2SA",
+            "url": "https://www.yelp.com/biz/burger-king-portland-25?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=V2GZnoMQxHlX15m6GFl2SA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Pros: \n*The food is good\n*The order was made quickly\n\nCons:\n*The dining room was a mess! (Trash on the floor and every table was dirty)\n*The soda,regardless...",
+            "rating": 3,
+            "time_created": "2019-02-04 11:52:23",
+            "user": {
+                "id": "zPwSlmXflFrJhjd04r1dOg",
+                "profile_url": "https://www.yelp.com/user_details?userid=zPwSlmXflFrJhjd04r1dOg",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/AS6DWDeXMvsP5LmO494ARQ/o.jpg",
+                "name": "Keean W."
+            }
+        },
+        {
+            "id": "R49iptbKGdee991Am8i8vw",
+            "url": "https://www.yelp.com/biz/burger-king-portland-25?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=R49iptbKGdee991Am8i8vw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I can't believe this place. 2 cars in 15 minutes in the drive thru were served. \nI stopped because I was short on time not because I can't cook my own food....",
+            "rating": 1,
+            "time_created": "2019-08-02 17:36:52",
+            "user": {
+                "id": "JsprdFm7IQrBYYCAKpi8zw",
+                "profile_url": "https://www.yelp.com/user_details?userid=JsprdFm7IQrBYYCAKpi8zw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/RKmXf-VDNR7OQQ5Pb9gFzw/o.jpg",
+                "name": "Jerry P."
+            }
+        },
+        {
+            "id": "NetNxqENmtgyBGlRa5KZpQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-25?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=NetNxqENmtgyBGlRa5KZpQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I don't understand why this Burger King can't get their shit together. I went into the drive thru and waited 15 minutes and no one answered to take my...",
+            "rating": 1,
+            "time_created": "2019-07-26 23:26:25",
+            "user": {
+                "id": "a57p6DY0WskIFr-4Wi7AMA",
+                "profile_url": "https://www.yelp.com/user_details?userid=a57p6DY0WskIFr-4Wi7AMA",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/nt6b7z7CUFU5rEz_2-gTbw/o.jpg",
+                "name": "Amanda W."
+            }
+        },
+        {
+            "id": "6ypWTW39zQNy8aClnzOWNw",
+            "url": "https://www.yelp.com/biz/burger-king-portland-31?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=6ypWTW39zQNy8aClnzOWNw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I don't care what you say about this here joint. French toast dipping sticks deserve 5 stars always and forever.",
+            "rating": 5,
+            "time_created": "2019-12-02 08:36:13",
+            "user": {
+                "id": "GkxNb_fz05-k1vJbxVbiCw",
+                "profile_url": "https://www.yelp.com/user_details?userid=GkxNb_fz05-k1vJbxVbiCw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/AN9OHdHXveFp2JWAgDJp7w/o.jpg",
+                "name": "Jacob W."
+            }
+        },
+        {
+            "id": "klKHcPzOzPNg8SMnbTLnkw",
+            "url": "https://www.yelp.com/biz/burger-king-portland-31?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=klKHcPzOzPNg8SMnbTLnkw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "25 minutes stuck in a drive-thru window line. Absolutely unacceptable. Get it together.\nThis is supposed to be fast food. \n2019 #8",
+            "rating": 1,
+            "time_created": "2019-07-12 13:27:15",
+            "user": {
+                "id": "m3ZchjhKZS-VvYCgvgMp4A",
+                "profile_url": "https://www.yelp.com/user_details?userid=m3ZchjhKZS-VvYCgvgMp4A",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/-FqAMHNmzQhG_Ilc1Lsv3A/o.jpg",
+                "name": "Lauren C."
+            }
+        },
+        {
+            "id": "_eWwSkKUNAxt9TCi2dD2FA",
+            "url": "https://www.yelp.com/biz/burger-king-portland-31?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=_eWwSkKUNAxt9TCi2dD2FA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "13 min for 2 chicken and 1 taco. I saw the taco be made almost right off. 13 min later i get my food with that cold taco. Asked for one that wasn't cold and...",
+            "rating": 1,
+            "time_created": "2019-08-26 14:45:07",
+            "user": {
+                "id": "tPxl1fi040sUAXhw5DGuLA",
+                "profile_url": "https://www.yelp.com/user_details?userid=tPxl1fi040sUAXhw5DGuLA",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/Qm4UI_ffDwB5Ts8R4JL83g/o.jpg",
+                "name": "Daniel L."
+            }
+        },
+        {
+            "id": "Ifsgy8qzJU92LwN8FvJefQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-12?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=Ifsgy8qzJU92LwN8FvJefQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "What a hot mess this location is!  Coupons never work, orders aren't right, soda machine breaks all the time, they are always short help.\n\nI've done inside...",
+            "rating": 2,
+            "time_created": "2018-04-06 00:53:20",
+            "user": {
+                "id": "L4HXo0l_yS8VCIAIYi9-AQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=L4HXo0l_yS8VCIAIYi9-AQ",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/q85CA7w9lMK4oQT-OUQ6Ew/o.jpg",
+                "name": "Cristina G."
+            }
+        },
+        {
+            "id": "HCnZtSoNguOYNJorf5qFDQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-12?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=HCnZtSoNguOYNJorf5qFDQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "If I could give zero stars I would!! Absolutely disgusting first of all, all young kids working and kept disappearing.\nMy husband was getting pissed...",
+            "rating": 1,
+            "time_created": "2019-10-13 19:48:47",
+            "user": {
+                "id": "nf_vtxRBw2Un3scvSJa8MA",
+                "profile_url": "https://www.yelp.com/user_details?userid=nf_vtxRBw2Un3scvSJa8MA",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/C74WXzUSGjNZaTzSlzFyVw/o.jpg",
+                "name": "Catherine E."
+            }
+        },
+        {
+            "id": "dxdhlUwnfaRsa0GE1P8tVw",
+            "url": "https://www.yelp.com/biz/burger-king-portland-12?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=dxdhlUwnfaRsa0GE1P8tVw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Not sure why people have issues with this location but we had great speedy service.  We had a larger complicated order they were still friendly and fast....",
+            "rating": 5,
+            "time_created": "2019-08-18 14:37:31",
+            "user": {
+                "id": "-AOs2WxstUEPCcodoN0oyw",
+                "profile_url": "https://www.yelp.com/user_details?userid=-AOs2WxstUEPCcodoN0oyw",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/Z5l51tqG5PRuoSUBOMhAHg/o.jpg",
+                "name": "Daniel M."
+            }
+        },
+        {
+            "id": "Q0W4ryKagauoia3iqPN02A",
+            "url": "https://www.yelp.com/biz/burger-king-portland-30?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=Q0W4ryKagauoia3iqPN02A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "CONNIE! She is awesome.. she is the reason I give this Burger King 5 stars! She is super friendly and awesome every time we go there. Connie has awesome...",
+            "rating": 5,
+            "time_created": "2019-12-22 21:07:15",
+            "user": {
+                "id": "yfqrExKsKuJlAG6UkX3cMw",
+                "profile_url": "https://www.yelp.com/user_details?userid=yfqrExKsKuJlAG6UkX3cMw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/I7DBEO5zDeUxh9qkYMuUIQ/o.jpg",
+                "name": "Mercedes T."
+            }
+        },
+        {
+            "id": "i655vtySop7tFxFq1F3omw",
+            "url": "https://www.yelp.com/biz/burger-king-portland-30?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=i655vtySop7tFxFq1F3omw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Used to frequent this BK,  but never again. Theres a new girl working the front counter and drive thru, and she is incredibly rude and also hard of hearing....",
+            "rating": 1,
+            "time_created": "2020-01-13 12:06:19",
+            "user": {
+                "id": "yqYH3Ctu6cCxvuy6M1CrlA",
+                "profile_url": "https://www.yelp.com/user_details?userid=yqYH3Ctu6cCxvuy6M1CrlA",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/cpEy9ulB2dLI1TZUx4xhYg/o.jpg",
+                "name": "Steve R."
+            }
+        },
+        {
+            "id": "9IEQn6zyn5dYjL6eUBUm1Q",
+            "url": "https://www.yelp.com/biz/burger-king-portland-30?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=9IEQn6zyn5dYjL6eUBUm1Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I've never been to such a huge dumpster fire of a fast food restaurant before in my life.\n\nI sometimes go to fast food places because my dogs love nuggets....",
+            "rating": 1,
+            "time_created": "2019-08-17 16:07:56",
+            "user": {
+                "id": "UVFcbxCkRTnH9rVhzMcvAg",
+                "profile_url": "https://www.yelp.com/user_details?userid=UVFcbxCkRTnH9rVhzMcvAg",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/zWdVu85rB2DHv0d-jmdXDg/o.jpg",
+                "name": "Thomas R."
+            }
+        },
+        {
+            "id": "a_o_46o_ehSgoXThvw9Vyg",
+            "url": "https://www.yelp.com/biz/burger-king-portland-27?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=a_o_46o_ehSgoXThvw9Vyg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Very slow service had to wait for employees to comeback after waiting a few minutes everyone was in the back not working while customers were waiting and...",
+            "rating": 1,
+            "time_created": "2018-04-20 15:40:06",
+            "user": {
+                "id": "Panj_liY5mClNNXGi_Cx4g",
+                "profile_url": "https://www.yelp.com/user_details?userid=Panj_liY5mClNNXGi_Cx4g",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/RJrUtoKTpw4GThQwcel5sA/o.jpg",
+                "name": "Joe B."
+            }
+        },
+        {
+            "id": "vSAetrqFHKu4Xs7ZpiLMjw",
+            "url": "https://www.yelp.com/biz/burger-king-portland-27?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=vSAetrqFHKu4Xs7ZpiLMjw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Come here for lunch all the time the staff is always friendly and the service is fast. The eggnormous burrito is eggmazing!",
+            "rating": 4,
+            "time_created": "2017-03-11 08:05:06",
+            "user": {
+                "id": "X8rWTwPD-YzvgzpmjH_q1g",
+                "profile_url": "https://www.yelp.com/user_details?userid=X8rWTwPD-YzvgzpmjH_q1g",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/xls8-j444knSm9J2XUfp_g/o.jpg",
+                "name": "Jason P."
+            }
+        },
+        {
+            "id": "F8mQ0s38e6FHCqiEqvArtA",
+            "url": "https://www.yelp.com/biz/burger-king-portland-27?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=F8mQ0s38e6FHCqiEqvArtA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "In and out super quick. Picked up the 10 piece chicken nuggets. Sweet deal at $1.49. So much better than McDonald's and the honey mustard sauce is 100x...",
+            "rating": 5,
+            "time_created": "2014-10-19 18:38:41",
+            "user": {
+                "id": "fTuTwzQM280HTvjAE0nI3w",
+                "profile_url": "https://www.yelp.com/user_details?userid=fTuTwzQM280HTvjAE0nI3w",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/gYDdg4dhlWzMCZMlNhp7zw/o.jpg",
+                "name": "Susan A."
+            }
+        },
+        {
+            "id": "Xx1vmTMaetFn3HPasNMy1w",
+            "url": "https://www.yelp.com/biz/burger-king-portland-6?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=Xx1vmTMaetFn3HPasNMy1w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I love Burger King but this location needs to honor restaurant hours including drive through. This place closes an hour to an hour and a half early,...",
+            "rating": 1,
+            "time_created": "2019-09-05 23:51:23",
+            "user": {
+                "id": "Ks5Lzegur7tlbNpOqLVgDw",
+                "profile_url": "https://www.yelp.com/user_details?userid=Ks5Lzegur7tlbNpOqLVgDw",
+                "image_url": null,
+                "name": "CJ M."
+            }
+        },
+        {
+            "id": "XxNBpSQLgmlTvmt49ZaWhQ",
+            "url": "https://www.yelp.com/biz/burger-king-portland-6?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=XxNBpSQLgmlTvmt49ZaWhQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Horrible. DO. NOT. GO. Awful customer service and extremely rude employees. 100% the worst experience I've ever had at a fast food chain!",
+            "rating": 1,
+            "time_created": "2019-09-06 23:37:07",
+            "user": {
+                "id": "vOPMjtHlTmHgBllkWuleZA",
+                "profile_url": "https://www.yelp.com/user_details?userid=vOPMjtHlTmHgBllkWuleZA",
+                "image_url": null,
+                "name": "Rea S."
+            }
+        },
+        {
+            "id": "Zp3wv8s3qPgYhN0Uwcez-A",
+            "url": "https://www.yelp.com/biz/burger-king-portland-6?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=Zp3wv8s3qPgYhN0Uwcez-A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "The short lady with the brassy hair (might be a manager, has no name tag.) is very rude and cold. Zero customer service skills. Doesn't respond when spoken...",
+            "rating": 1,
+            "time_created": "2019-06-23 13:19:58",
+            "user": {
+                "id": "LeHd0314-ewMvtX7TVGxQA",
+                "profile_url": "https://www.yelp.com/user_details?userid=LeHd0314-ewMvtX7TVGxQA",
+                "image_url": null,
+                "name": "Brittany H."
+            }
+        }
+    ]
+}

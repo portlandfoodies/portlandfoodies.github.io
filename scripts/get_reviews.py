@@ -6,7 +6,8 @@ import operator
 
 def main():
   review_count_id = {}
-  with open('portland97266.json') as ifile:
+  name = "burgerville-portland-cleaned"
+  with open('../data/' + name + '.json') as ifile:
     data = json.load(ifile)
 
   for business in data["businesses"]:
@@ -30,7 +31,7 @@ def main():
       review_data['business_reviews'].append(rw)
   
   # writing reviews to file at the end. not the best way to do it
-  with open('reviews97266.json', 'w+', encoding='utf-8') as ofile:
+  with open( name + '-reviews.json', 'w+', encoding='utf-8') as ofile:
      json.dump(review_data, ofile, ensure_ascii=False, indent=4)
   
 

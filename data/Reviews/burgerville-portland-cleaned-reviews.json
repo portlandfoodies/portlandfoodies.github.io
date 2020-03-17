@@ -1,0 +1,277 @@
+{
+    "business_reviews": [
+        {
+            "id": "yfiFcxSwubglYNVVPuD-mw",
+            "url": "https://www.yelp.com/biz/burgerville-portland-8?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=yfiFcxSwubglYNVVPuD-mw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Never been to Burgerville before but decided to hit up because I was at a convention just next door. I appreciated it enough to go back twice more over a...",
+            "rating": 4,
+            "time_created": "2020-03-02 12:55:52",
+            "user": {
+                "id": "UDq0d746LZ1MppHyy9ViHA",
+                "profile_url": "https://www.yelp.com/user_details?userid=UDq0d746LZ1MppHyy9ViHA",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/k_oep7OpBSnGAe17gessJg/o.jpg",
+                "name": "Joe C."
+            }
+        },
+        {
+            "id": "rg2Cq_hTpLXqewoRCdBggg",
+            "url": "https://www.yelp.com/biz/burgerville-portland-8?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=rg2Cq_hTpLXqewoRCdBggg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I went into it with managed expectations and was still a tad dissapointed.\n\nBurgerville prides itself on using local ingredients when possible which I...",
+            "rating": 2,
+            "time_created": "2019-10-25 12:22:53",
+            "user": {
+                "id": "h7qpZ0UgSWdVi1_5hxVYyw",
+                "profile_url": "https://www.yelp.com/user_details?userid=h7qpZ0UgSWdVi1_5hxVYyw",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/EaAVkHwhONHg_PlwV5Awxw/o.jpg",
+                "name": "Russ C."
+            }
+        },
+        {
+            "id": "YBtf8tlJ9_rCn4lfd7BiMg",
+            "url": "https://www.yelp.com/biz/burgerville-portland-8?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=YBtf8tlJ9_rCn4lfd7BiMg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "If Burger King and Wendy's had a love child, this would be it. Their sauce reminds me of Burger King, and the skinny patty/shape of Wendy's.\n\nGiving the...",
+            "rating": 2,
+            "time_created": "2019-08-30 15:53:28",
+            "user": {
+                "id": "MDksqAvBV8qmV4elL7xLLg",
+                "profile_url": "https://www.yelp.com/user_details?userid=MDksqAvBV8qmV4elL7xLLg",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/weUsS6s4-j0hZfv_or7PkQ/o.jpg",
+                "name": "Caroline T."
+            }
+        },
+        {
+            "id": "yi4kY6QqLThv9mN_B9m1EA",
+            "url": "https://www.yelp.com/biz/burgerville-portland?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=yi4kY6QqLThv9mN_B9m1EA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Halibut sandwich, pass it to the catch. \nBeen in burgarory my whole life. \nI got every girl scout patch.\nWaffle fries on lock, just to match my...",
+            "rating": 5,
+            "time_created": "2020-02-28 14:53:32",
+            "user": {
+                "id": "2eH9EH8cxru1PmQmHsw2SQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=2eH9EH8cxru1PmQmHsw2SQ",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/kgs6Y2Lo3nHmLYgf-qHyXw/o.jpg",
+                "name": "Martin M."
+            }
+        },
+        {
+            "id": "bb1CJCAKnZBo4p3hfBttUA",
+            "url": "https://www.yelp.com/biz/burgerville-portland?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=bb1CJCAKnZBo4p3hfBttUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I never eat fast food though will eat here.  This was my first visit in a few years and as it always is, Burgerville did not disappoint.\n\nThe restaurant was...",
+            "rating": 5,
+            "time_created": "2020-02-01 12:28:32",
+            "user": {
+                "id": "1374ahMojnTIMuDbhljwkw",
+                "profile_url": "https://www.yelp.com/user_details?userid=1374ahMojnTIMuDbhljwkw",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/CI_ikg-WorP6QC9IhqX65Q/o.jpg",
+                "name": "Brian S."
+            }
+        },
+        {
+            "id": "riglsA9sn4iRgXMmARYVRg",
+            "url": "https://www.yelp.com/biz/burgerville-portland?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=riglsA9sn4iRgXMmARYVRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I was so grateful for this place being here. In the middle of a very long work day, my wife and I were able to stop for a bite to ear. Fresh, wholesome,...",
+            "rating": 5,
+            "time_created": "2019-11-19 23:47:49",
+            "user": {
+                "id": "-A9ICz4e9hgrNK4-Fs3TmQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=-A9ICz4e9hgrNK4-Fs3TmQ",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/5N-qDvckGjXfFvfysSmdCw/o.jpg",
+                "name": "Kevin H."
+            }
+        },
+        {
+            "id": "h6JSVVX2Wsw_vanffIPEvw",
+            "url": "https://www.yelp.com/biz/burgerville-portland-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=h6JSVVX2Wsw_vanffIPEvw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Best fast food burger ever. Not greasy or stomach ache. Fries were dry though and they didn't include ketchup in the doordash order. Chicken strips were ok,...",
+            "rating": 5,
+            "time_created": "2019-09-30 16:49:53",
+            "user": {
+                "id": "Bi9pwJu-wpNU_darEkROaQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=Bi9pwJu-wpNU_darEkROaQ",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/OBJ9KOnk0MpKd9cE38FNGQ/o.jpg",
+                "name": "Jane N."
+            }
+        },
+        {
+            "id": "a9KY-RZ86rg8h3XyuXtMOw",
+            "url": "https://www.yelp.com/biz/burgerville-portland-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=a9KY-RZ86rg8h3XyuXtMOw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Burgerville Corp. you need to audit this place.  It's nothing like the other Burgerville's I have been to. \n\nIn fact after coming here several times and...",
+            "rating": 1,
+            "time_created": "2020-02-23 22:06:02",
+            "user": {
+                "id": "OrELs30Et6KG-KgKfhkzYw",
+                "profile_url": "https://www.yelp.com/user_details?userid=OrELs30Et6KG-KgKfhkzYw",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/Ul4RXe8JpXB2pKuO1yMGZw/o.jpg",
+                "name": "Jody J."
+            }
+        },
+        {
+            "id": "jfIjJkEEVCyhduKg3ntpKw",
+            "url": "https://www.yelp.com/biz/burgerville-portland-3?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=jfIjJkEEVCyhduKg3ntpKw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I used to love the idea of a burgerville burger . Our last couple of experiences have been terrible . Cold , minuscule amount of  sauce , wilted lettuce .....",
+            "rating": 1,
+            "time_created": "2020-01-23 20:53:04",
+            "user": {
+                "id": "yZywIznUUPc5ZCdymU7j0w",
+                "profile_url": "https://www.yelp.com/user_details?userid=yZywIznUUPc5ZCdymU7j0w",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/aMeBOI_gT16BfOEs2egKwQ/o.jpg",
+                "name": "Peggy S."
+            }
+        },
+        {
+            "id": "NEEnvpblGBQV8rZpiLUljg",
+            "url": "https://www.yelp.com/biz/burgerville-portland-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=NEEnvpblGBQV8rZpiLUljg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I ordered the COLOSSAL (single patty) burger.  This is my FIRST TIME eating in a Burgerville, and I've always wanted to. Well, the burger was $5.09, and a...",
+            "rating": 3,
+            "time_created": "2019-08-29 21:01:24",
+            "user": {
+                "id": "Px1aGWK1dnW_wkajaOdkjQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=Px1aGWK1dnW_wkajaOdkjQ",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/7skpZna5GhZ-Eb9Ws0wtZQ/o.jpg",
+                "name": "Peter M."
+            }
+        },
+        {
+            "id": "nltUsGsLG_8oY44wD7II4Q",
+            "url": "https://www.yelp.com/biz/burgerville-portland-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=nltUsGsLG_8oY44wD7II4Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I came here with a party of 3. Private parking lot was almost full but there were some spots left.\n\nThe drive-thru line was extremely long so we decided to...",
+            "rating": 2,
+            "time_created": "2019-10-27 00:45:05",
+            "user": {
+                "id": "TbXMSZIGqpvbXL7BFRHMUA",
+                "profile_url": "https://www.yelp.com/user_details?userid=TbXMSZIGqpvbXL7BFRHMUA",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/BJh_EjxZ_dI9QLnwz6WLag/o.jpg",
+                "name": "Kevin W."
+            }
+        },
+        {
+            "id": "DzMtqYycq4JKyNWoQR7BVQ",
+            "url": "https://www.yelp.com/biz/burgerville-portland-7?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=DzMtqYycq4JKyNWoQR7BVQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "This is the slowest drive thru in the entire city. \nOther BV are so much quicker. How do they do it & this one can't?\nAbsolutely ridiculous",
+            "rating": 2,
+            "time_created": "2019-10-22 18:47:11",
+            "user": {
+                "id": "ssnFOdVlMAbau5hOREsOnQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=ssnFOdVlMAbau5hOREsOnQ",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/_uChjkfMv8zTtiURuq-UkA/o.jpg",
+                "name": "Michelle S."
+            }
+        },
+        {
+            "id": "Mdd6P1f3I__4RJVP5PWt7w",
+            "url": "https://www.yelp.com/biz/burgerville-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=Mdd6P1f3I__4RJVP5PWt7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Delicious food and shakes. Freezing cold inside: Wear a coat. Ridiculous. I don't think I can come back. I had to take my food out to the car.",
+            "rating": 4,
+            "time_created": "2019-09-22 13:30:53",
+            "user": {
+                "id": "lt4juAelvdd1eokdegnkbA",
+                "profile_url": "https://www.yelp.com/user_details?userid=lt4juAelvdd1eokdegnkbA",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/3lLATpKTPKdVRrukDgRYjA/o.jpg",
+                "name": "Tom L."
+            }
+        },
+        {
+            "id": "kmp-944Q-QCl1p5uDvC30Q",
+            "url": "https://www.yelp.com/biz/burgerville-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=kmp-944Q-QCl1p5uDvC30Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Eating here was a negative experience when i was having a great day with my family. RUDE service and poor management. Specifically concerning the Manager...",
+            "rating": 1,
+            "time_created": "2020-02-01 20:06:14",
+            "user": {
+                "id": "yCHNp-cLMQcH9hVwHDaIEQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=yCHNp-cLMQcH9hVwHDaIEQ",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/kMLKPx9uSi-gQDPVuNwK1A/o.jpg",
+                "name": "Rad P."
+            }
+        },
+        {
+            "id": "frVzeS-4O1296UkY86R9og",
+            "url": "https://www.yelp.com/biz/burgerville-portland-5?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=frVzeS-4O1296UkY86R9og&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "The food is good.  Their Walla Walla onion rings when in season are a must!  They regularly have seasonal food items, so there is something new every month....",
+            "rating": 4,
+            "time_created": "2019-04-20 22:40:55",
+            "user": {
+                "id": "GPkFBCgT7CU8t4EqPkOh7Q",
+                "profile_url": "https://www.yelp.com/user_details?userid=GPkFBCgT7CU8t4EqPkOh7Q",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/fx5IImbbIfOJL6NQVQvjgg/o.jpg",
+                "name": "Andrew P."
+            }
+        },
+        {
+            "id": "rYTo8f1w27DruarZNDBe5g",
+            "url": "https://www.yelp.com/biz/burgerville-portland-17?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=rYTo8f1w27DruarZNDBe5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "My sister and I went through the drive thru of this Burgerville and had to wait a few extra minutes in line before we could get our food. Not a big deal at...",
+            "rating": 5,
+            "time_created": "2019-05-15 08:38:12",
+            "user": {
+                "id": "PB4iy9_dgTmgSoQUJSBy_A",
+                "profile_url": "https://www.yelp.com/user_details?userid=PB4iy9_dgTmgSoQUJSBy_A",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/D-q7s6geuO84F2mivIdQBA/o.jpg",
+                "name": "Molly H."
+            }
+        },
+        {
+            "id": "4YEWnzlp471jXDtxA61Z2A",
+            "url": "https://www.yelp.com/biz/burgerville-portland-17?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=4YEWnzlp471jXDtxA61Z2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Peppered bacon burger my butt .. \nIt says PB on the wrapper but there no bacon on this burger.  Took a bite and noticed something was wrong. The waffle...",
+            "rating": 2,
+            "time_created": "2019-09-03 16:18:15",
+            "user": {
+                "id": "_PqzoS8No5vigAWRBSimMA",
+                "profile_url": "https://www.yelp.com/user_details?userid=_PqzoS8No5vigAWRBSimMA",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/r57IiwLWKMWgnwQZRkVgWA/o.jpg",
+                "name": "Emily S."
+            }
+        },
+        {
+            "id": "0DUGa9nD2oGQIrGCyTEmcQ",
+            "url": "https://www.yelp.com/biz/burgerville-portland-17?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=0DUGa9nD2oGQIrGCyTEmcQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I'm conflicted about Burgerville. The food is good; it's a big step up from the big burger chains, and most of the food is sourced locally. However, it's...",
+            "rating": 2,
+            "time_created": "2019-05-12 16:06:56",
+            "user": {
+                "id": "zSJSbya4yryJbfWBtvnqJA",
+                "profile_url": "https://www.yelp.com/user_details?userid=zSJSbya4yryJbfWBtvnqJA",
+                "image_url": "https://s3-media2.fl.yelpcdn.com/photo/cVA0Pl35AyjegSVp_iSIrw/o.jpg",
+                "name": "Sebastian K."
+            }
+        },
+        {
+            "id": "jasxpnwuqPiUF6kDiMsT_w",
+            "url": "https://www.yelp.com/biz/burgerville-portland-10?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=jasxpnwuqPiUF6kDiMsT_w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "Nice little retro burgerville. Staff was nice. Food was delicious. We really came for the strawberry shakes. Nothing beats the shakes!",
+            "rating": 5,
+            "time_created": "2020-03-13 16:46:55",
+            "user": {
+                "id": "oOVDiC8__GCUN6nEN0qm3A",
+                "profile_url": "https://www.yelp.com/user_details?userid=oOVDiC8__GCUN6nEN0qm3A",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/q3D3yzurTO7WatiOkR0Ivg/o.jpg",
+                "name": "Kaylie B."
+            }
+        },
+        {
+            "id": "CScriOkOl5U_RvpXBN5PnQ",
+            "url": "https://www.yelp.com/biz/burgerville-portland-10?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=CScriOkOl5U_RvpXBN5PnQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "What happened to this place? Locked bathrooms with syringe disposal bins....classy. Bathrooms with no soap, no paper towels so you can't actually wash your...",
+            "rating": 2,
+            "time_created": "2019-12-10 12:05:28",
+            "user": {
+                "id": "MzZd8SSWlXVfvJH3g68daQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=MzZd8SSWlXVfvJH3g68daQ",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/51KWqj8flD7Xy1zbJPul6g/o.jpg",
+                "name": "Nicholas B."
+            }
+        },
+        {
+            "id": "PEh_H0gb-cBCcpd9HAsapg",
+            "url": "https://www.yelp.com/biz/burgerville-portland-10?adjust_creative=5nzHqD8sbFweaJmHfWW4TA&hrid=PEh_H0gb-cBCcpd9HAsapg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=5nzHqD8sbFweaJmHfWW4TA",
+            "text": "I went here one time and it reminded me of the Russian sushi from the show durararara. That is to say it's cheap, it's food, it won't hurt your stomach the...",
+            "rating": 2,
+            "time_created": "2020-02-10 17:46:37",
+            "user": {
+                "id": "lfdYBTVrwaYeuNDn4VVMOg",
+                "profile_url": "https://www.yelp.com/user_details?userid=lfdYBTVrwaYeuNDn4VVMOg",
+                "image_url": null,
+                "name": "Max W."
+            }
+        }
+    ]
+}
