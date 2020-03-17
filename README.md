@@ -9,6 +9,12 @@ Project Design:
 
 https://docs.google.com/document/d/1zquOXvyhvYoJCObhOqtlejyR_juul_OIJH4U3FdJw9o/edit?usp=sharing
 
+## Project Part Two
+
+Midpoint Report:
+
+https://docs.google.com/document/d/1OfU-EGJ195EvkjpH2W1qAUYca0fSakqMtL4P48KtEb0/edit
+
 Webpage:
 
 https://portlandfoodies.github.io
